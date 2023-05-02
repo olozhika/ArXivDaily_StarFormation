@@ -6,7 +6,6 @@ from __future__ import unicode_literals
 
 # Authentication for user filing issue (must have read/write access to repository to add issue to)
 USERNAME = 'olozhika'
-#TOKEN = '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'
 
 # The repository to add this issue to
 REPO_OWNER = 'olozhika'
@@ -17,4 +16,5 @@ NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
 
 # Keywords to search
 KEYWORD_LIST = ["star formation", "molecular cloud", "N-PDF", "cloud", "interstellar medium", "core", "filament", "atomic gas"]
+# Keywords to exclude
 KEYWORD_EX_LIST = ["galaxies"]
