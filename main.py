@@ -70,7 +70,7 @@ def main(args):
     # create a date string
     import datetime
     filename = './Arxiv_Daily_Notice/'+datetime.datetime.now().strftime("%Y-%m-%d") + '-Arxiv-Daily-Paper.md'
-    filename_readme = './Arxiv_Daily_Notice/README.md'
+    filename_readme = './README.md'
     print(filename)
     with open(filename, 'w+') as f:
         f.write(full_report)
