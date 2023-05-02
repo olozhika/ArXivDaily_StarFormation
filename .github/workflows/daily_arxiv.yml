@@ -32,8 +32,8 @@ jobs:
         with:
           python-version: 3.8        
 
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.5.2
+      #- name: Setup Node.js environment
+      #  uses: actions/setup-node@v2.5.2
 
       - name: Install dependencies
         run: |
