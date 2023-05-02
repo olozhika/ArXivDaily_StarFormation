@@ -13,7 +13,7 @@ REPO_OWNER = 'olozhika'
 REPO_NAME = 'ArXivDaily_auto'
 
 # Set new submission url of subject
-NEW_SUB_URL = 'https://arxiv.org/list/astro-ph.SR/new'
+NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
 
 # Keywords to search
 KEYWORD_LIST = ["star formation", "molecular cloud", "N-PDF", "cloud", "interstellar medium", "core", "filament", "atomic gas"]
