@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup as bs
 import urllib.request
 
 from github_issue import make_github_issue
-from config import NEW_SUB_URL, KEYWORD_LIST, USERNAME
+from config import NEW_SUB_URL, KEYWORD_LIST, KEYWORD_EX_LIST, USERNAME
 
 def main(args):
 
