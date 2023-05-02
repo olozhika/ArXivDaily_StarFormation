@@ -1,34 +1,7 @@
 # New submissions for Tue,  2 May 23
-## Keyword: star formation
-There is no result 
-## Keyword: molecular cloud
-There is no result 
-## Keyword: N-PDF
-There is no result 
-## Keyword: cloud
-### Detection of monothioformic acid towards the solar-type protostar IRAS  16293-2422
- - **Authors:** Arijit Manna, Sabyasachi Pal
- - **Subjects:** Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2305.00480
- - **Pdf link:** https://arxiv.org/pdf/2305.00480
- - **Abstract**
- In the interstellar medium (ISM), the complex organic molecules that contain the thiol group ($-$SH) play an important role in the polymerization of amino acids. We look for SH-bearing molecules in the chemically rich solar-type protostar IRAS 16293-2422. After the extensive spectral analysis using the local thermodynamic equilibrium (LTE) model, we have detected the rotational emission lines of trans-isomer monothioformic acid (t-HC(O)SH) towards the IRAS 16293 B using the Atacama Large Millimeter/Submillimeter Array (ALMA). We did not observe any evidence of cis-isomer monothioformic acid (c-HC(O)SH) towards the IRAS 16293 B. The column density of t-HC(O)SH towards the IRAS 16293 B was (1.02$\pm$0.6)$\times$10$^{15}$ cm$^{-2}$ with an excitation temperature of 125$\pm$15 K. The fractional abundance of t-HC(O)SH with respect to H$_{2}$ towards the IRAS 16293 B is 8.50$\times$10$^{-11}$. The column density ratio of t-HC(O)SH/CH$_{3}$SH towards the IRAS 16293 B is 0.185. We compare our estimated abundance of t-HC(O)SH towards the IRAS 16293 B with the abundance of t-HC(O)SH towards the galactic center quiescent cloud G+0.693-0.027 and hot molecular core G31.41+0.31. After the comparison, we found that the abundance of t-HC(O)SH towards the IRAS 16293 B is several times of magnitude lower than G+0.693-0.027 and G31.41+0.31. We also discuss the possible formation mechanism of t-HC(O)SH in the ISM.
-### Joint Modelling of Dust Scattering and Thermal Emission: The Spider  Complex
- - **Authors:** Jielai Zhang, Peter G Martin, Ryan Cloutier, Natalie Price-Jones, Roberto Abraham, Pieter van Dokkum, Allison Merritt
- - **Subjects:** Astrophysics of Galaxies (astro-ph.GA); Instrumentation and Methods for Astrophysics (astro-ph.IM)
- - **Arxiv link:** https://arxiv.org/abs/2305.00756
- - **Pdf link:** https://arxiv.org/pdf/2305.00756
- - **Abstract**
- Observations across the electromagnetic spectrum of radiative processes involving interstellar dust -- emission, extinction, and scattering -- are used to constrain the parameters of dust models and more directly to aid in foreground removal of dust for extragalactic and cosmology observations. The more complementary observations, the better. Here, we quantify the relationship between scattered light and thermal emission from dust in a diffuse (cirrus) intermediate latitude cloud, Spider, using data from the Dragonfly Telephoto Array and the Herschel Space Observatory. A challenge for optical observations of faint cirrus is accurate removal of a contaminating spatially varying sky background. We present a technique to analyse two images of the same cirrus field concurrently, correlating pixel values to capture the relationship and simultaneously fitting the sky background as a complex non-correlating additive component. For the Spider, we measure a $g-r$ color of 0.644$\pm 0.024$ and a visible wavelength to 250 $\mu$m intensity ratio of $10^{-3} \times (0.855 \pm0.025)$ and $10^{-3} \times (1.55\pm0.08)$ for $g$ and $r$-band respectively. We show how to use any dust model that matches the thermal dust emission to predict an upper limit to the amount of scattered light. The actual brightness of the cirrus will be fainter than this limit because of anisotropic scattering by the dust combined with anisotropy of the incident interstellar radiation field (ISRF). Using models of dust and the ISRF in the literature we illustrate that the predicted brightness is indeed lower, though not as faint as the observations indicate.
-## Keyword: interstellar medium
-### Detection of monothioformic acid towards the solar-type protostar IRAS  16293-2422
- - **Authors:** Arijit Manna, Sabyasachi Pal
- - **Subjects:** Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2305.00480
- - **Pdf link:** https://arxiv.org/pdf/2305.00480
- - **Abstract**
- In the interstellar medium (ISM), the complex organic molecules that contain the thiol group ($-$SH) play an important role in the polymerization of amino acids. We look for SH-bearing molecules in the chemically rich solar-type protostar IRAS 16293-2422. After the extensive spectral analysis using the local thermodynamic equilibrium (LTE) model, we have detected the rotational emission lines of trans-isomer monothioformic acid (t-HC(O)SH) towards the IRAS 16293 B using the Atacama Large Millimeter/Submillimeter Array (ALMA). We did not observe any evidence of cis-isomer monothioformic acid (c-HC(O)SH) towards the IRAS 16293 B. The column density of t-HC(O)SH towards the IRAS 16293 B was (1.02$\pm$0.6)$\times$10$^{15}$ cm$^{-2}$ with an excitation temperature of 125$\pm$15 K. The fractional abundance of t-HC(O)SH with respect to H$_{2}$ towards the IRAS 16293 B is 8.50$\times$10$^{-11}$. The column density ratio of t-HC(O)SH/CH$_{3}$SH towards the IRAS 16293 B is 0.185. We compare our estimated abundance of t-HC(O)SH towards the IRAS 16293 B with the abundance of t-HC(O)SH towards the galactic center quiescent cloud G+0.693-0.027 and hot molecular core G31.41+0.31. After the comparison, we found that the abundance of t-HC(O)SH towards the IRAS 16293 B is several times of magnitude lower than G+0.693-0.027 and G31.41+0.31. We also discuss the possible formation mechanism of t-HC(O)SH in the ISM.
-## Keyword: core
+Update Star Formation & Molecular Cloud papers at 2am UTC (10am Beijing time) every weekday, forked from zhuhu00/Paper-Daily-Notice. 
+2023-05-02
+## Keyword list: ['star formation', 'molecular cloud', 'N-PDF', 'cloud', 'interstellar medium', 'core', 'filament', 'atomic gas']
 ### Recent Progress in Modelling the Macro- and Micro-Physics of Radio Jet  Feedback in Galaxy Clusters
  - **Authors:** Martin A. Bourne, Hsiang-Yi Karen Yang
  - **Subjects:** High Energy Astrophysical Phenomena (astro-ph.HE); Astrophysics of Galaxies (astro-ph.GA)
@@ -57,6 +30,13 @@ There is no result
  - **Pdf link:** https://arxiv.org/pdf/2305.00480
  - **Abstract**
  In the interstellar medium (ISM), the complex organic molecules that contain the thiol group ($-$SH) play an important role in the polymerization of amino acids. We look for SH-bearing molecules in the chemically rich solar-type protostar IRAS 16293-2422. After the extensive spectral analysis using the local thermodynamic equilibrium (LTE) model, we have detected the rotational emission lines of trans-isomer monothioformic acid (t-HC(O)SH) towards the IRAS 16293 B using the Atacama Large Millimeter/Submillimeter Array (ALMA). We did not observe any evidence of cis-isomer monothioformic acid (c-HC(O)SH) towards the IRAS 16293 B. The column density of t-HC(O)SH towards the IRAS 16293 B was (1.02$\pm$0.6)$\times$10$^{15}$ cm$^{-2}$ with an excitation temperature of 125$\pm$15 K. The fractional abundance of t-HC(O)SH with respect to H$_{2}$ towards the IRAS 16293 B is 8.50$\times$10$^{-11}$. The column density ratio of t-HC(O)SH/CH$_{3}$SH towards the IRAS 16293 B is 0.185. We compare our estimated abundance of t-HC(O)SH towards the IRAS 16293 B with the abundance of t-HC(O)SH towards the galactic center quiescent cloud G+0.693-0.027 and hot molecular core G31.41+0.31. After the comparison, we found that the abundance of t-HC(O)SH towards the IRAS 16293 B is several times of magnitude lower than G+0.693-0.027 and G31.41+0.31. We also discuss the possible formation mechanism of t-HC(O)SH in the ISM.
+### Joint Modelling of Dust Scattering and Thermal Emission: The Spider  Complex
+ - **Authors:** Jielai Zhang, Peter G Martin, Ryan Cloutier, Natalie Price-Jones, Roberto Abraham, Pieter van Dokkum, Allison Merritt
+ - **Subjects:** Astrophysics of Galaxies (astro-ph.GA); Instrumentation and Methods for Astrophysics (astro-ph.IM)
+ - **Arxiv link:** https://arxiv.org/abs/2305.00756
+ - **Pdf link:** https://arxiv.org/pdf/2305.00756
+ - **Abstract**
+ Observations across the electromagnetic spectrum of radiative processes involving interstellar dust -- emission, extinction, and scattering -- are used to constrain the parameters of dust models and more directly to aid in foreground removal of dust for extragalactic and cosmology observations. The more complementary observations, the better. Here, we quantify the relationship between scattered light and thermal emission from dust in a diffuse (cirrus) intermediate latitude cloud, Spider, using data from the Dragonfly Telephoto Array and the Herschel Space Observatory. A challenge for optical observations of faint cirrus is accurate removal of a contaminating spatially varying sky background. We present a technique to analyse two images of the same cirrus field concurrently, correlating pixel values to capture the relationship and simultaneously fitting the sky background as a complex non-correlating additive component. For the Spider, we measure a $g-r$ color of 0.644$\pm 0.024$ and a visible wavelength to 250 $\mu$m intensity ratio of $10^{-3} \times (0.855 \pm0.025)$ and $10^{-3} \times (1.55\pm0.08)$ for $g$ and $r$-band respectively. We show how to use any dust model that matches the thermal dust emission to predict an upper limit to the amount of scattered light. The actual brightness of the cirrus will be fainter than this limit because of anisotropic scattering by the dust combined with anisotropy of the incident interstellar radiation field (ISRF). Using models of dust and the ISRF in the literature we illustrate that the predicted brightness is indeed lower, though not as faint as the observations indicate.
 ### Small Planets Around Cool Dwarfs: Enhanced Formation Efficiency of  Super-Earths around M dwarfs
  - **Authors:** Yayaati Chachan, Eve J. Lee
  - **Subjects:** Earth and Planetary Astrophysics (astro-ph.EP)
@@ -64,7 +44,3 @@ There is no result
  - **Pdf link:** https://arxiv.org/pdf/2305.00803
  - **Abstract**
  Current measurements of planet population as a function of stellar mass show three seemingly contradictory signatures: close-in super-Earths are more prevalent around M dwarfs than FGK dwarfs; inner super-Earths are correlated with outer giants; and outer giants are less common around M dwarfs than FGK dwarfs. Here, we build a simple framework that combines the theory of pebble accretion with the measurements of dust masses in protoplanetary disks to reconcile all three observations. First, we show that cooler stars are more efficient at converting pebbles into planetary cores at short orbital periods. Second, when disks are massive enough to nucleate a heavy core at 5 AU, more than enough dust can drift in to assemble inner planets, establishing the correlation between inner planets and outer giants. Finally, while stars of varying masses are similarly capable of converting pebbles into cores at long orbital periods, hotter stars are much more likely to harbor more massive dust disks so that the giant planet occurrence rate rises around hotter stars. Our results are valid over a wide range of parameter space for a disk accretion rate that follows $\dot{M}_\star \sim 10^{-8}\,M_\odot\,{\rm yr}^{-1}(M_\star/M_\odot)^2$. We predict a decline in mini-Neptune population (but not necessarily terrestrial planets) around stars lighter than $\sim 0.3-0.5 \, M_\odot$. Cold giants ($\gtrsim$5 AU), if they exist, should remain correlated with inner planets even around lower mass stars.
-## Keyword: filament
-There is no result 
-## Keyword: atomic gas
-There is no result 
