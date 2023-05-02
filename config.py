@@ -15,6 +15,6 @@ REPO_NAME = 'ArXivDaily_StarFormation'
 NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
 
 # Keywords to search
-KEYWORD_LIST = ["star formation", "molecular cloud", "N-PDF", "cloud", "interstellar medium", "core", "filament", "atomic gas"]
+KEYWORD_LIST = ["star formation", "molecular cloud", "interstellar medium", "cloud", "clump", "core", "filament", "atomic gas", "N-PDF"]
 # Keywords to exclude
 KEYWORD_EX_LIST = ["galaxies"]
