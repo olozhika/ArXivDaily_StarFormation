@@ -70,14 +70,14 @@ def main(args):
     full_report = full_report + datetime.datetime.now().strftime("%Y-%m-%d") + '\n'
     full_report = full_report + '## Keyword list: ' + keyword_list + '\n'
 
-        if len(keyword_dict) == 0:
-            full_report = full_report + 'There is no result \n'
+    if len(keyword_dict) == 0:
+        full_report = full_report + 'There is no result \n'
 
-        for paper in keyword_dict:
-            report = '### {}\n - **Authors:** {}\n - **Subjects:** {}\n - **Arxiv link:** {}\n - **Pdf link:** {}\n - **Abstract**\n {}' \
+    for paper in keyword_dict:
+        report = '### {}\n - **Authors:** {}\n - **Subjects:** {}\n - **Arxiv link:** {}\n - **Pdf link:** {}\n - **Abstract**\n {}' \
                 .format(paper['title'], paper['authors'], paper['subjects'], paper['main_page'], paper['pdf'],
                         paper['abstract'])
-            full_report = full_report + report + '\n'
+        full_report = full_report + report + '\n'
 
     # full_report = full_report + '\n</details>'
 
