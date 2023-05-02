@@ -46,7 +46,9 @@ def main(args):
 
         for keyword in keyword_list:
             if keyword.lower() in paper['abstract'].lower():
-                keyword_dict[keyword].append(paper)
+                for keyword_ex in keyword_ex_list:
+                    if (keyword_ex.lower() in paper['abstract'].lower())==0:
+                        keyword_dict[keyword].append(paper)
 
     full_report = '# '+issue_title+'\n'
     for keyword in keyword_list:
