@@ -10,7 +10,7 @@ USERNAME = 'olozhika'
 
 # The repository to add this issue to
 REPO_OWNER = 'olozhika'
-REPO_NAME = 'ArXivDaily_auto'
+REPO_NAME = 'ArXivDaily_StarFormation'
 
 # Set new submission url of subject
 NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
