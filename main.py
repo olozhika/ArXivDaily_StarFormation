@@ -69,13 +69,16 @@ def main(args):
     full_report = '# '+issue_title+'\n'
     full_report = full_report + 'Update Star Formation & Molecular Cloud papers at 2am UTC (10am Beijing time) every weekday, forked from zhuhu00/Paper-Daily-Notice. ' + '\n'
     full_report = full_report + datetime.datetime.now().strftime("%Y-%m-%d") + '\n'
-    full_report = full_report + '## Keyword list: ' + str(keyword_list) + '\n'
+    full_report = full_report + '\n\n'
+    full_report = full_report + 'Keyword list: ' + str(keyword_list) + '\n'
 
+    full_report = full_report + '### Today: ' + str(len(keyword_dict)) + 'papers \n'
+    
     if len(keyword_dict) == 0:
         full_report = full_report + 'There is no result \n'
 
     for paper in keyword_dict:
-        report = '### {}\n - **Authors:** {}\n - **Subjects:** {}\n - **Arxiv link:** {}\n - **Pdf link:** {}\n - **Abstract**\n {}' \
+        report = '#### {}\n - **Authors:** {}\n - **Subjects:** {}\n - **Arxiv link:** {}\n - **Pdf link:** {}\n - **Abstract**\n {}' \
                 .format(paper['title'], paper['authors'], paper['subjects'], paper['main_page'], paper['pdf'],
                         paper['abstract'])
         full_report = full_report + report + '\n'
