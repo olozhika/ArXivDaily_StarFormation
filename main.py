@@ -31,7 +31,8 @@ def main(args):
 
     keyword_list = KEYWORD_LIST
     keyword_ex_list = KEYWORD_EX_LIST
-    keyword_dict = {key: [] for key in keyword_list}
+    #keyword_dict = {key: [] for key in keyword_list}
+    keyword_dict = []
 
     for i in range(len(dt_list)):
         paper = {}
@@ -45,20 +46,34 @@ def main(args):
         paper['subjects'] = dd_list[i].find("div", {"class": "list-subjects"}).text.replace("Subjects: ", "").strip()
         paper['abstract'] = dd_list[i].find("p", {"class": "mathjax"}).text.replace("\n", " ").strip()
 
+        '''
         for keyword in keyword_list:
             if keyword.lower() in paper['abstract'].lower():
                 for keyword_ex in keyword_ex_list:
                     if (keyword_ex.lower() in paper['abstract'].lower())==0:
-                        keyword_dict[keyword].append(paper)
+                        #keyword_dict[keyword].append(paper)
+        '''
+                        
+        inclu=0
+        for keyword in keyword_list:
+            if keyword.lower() in paper['abstract'].lower():
+                inclu=1
+        for keyword_ex in keyword_ex_list:
+            if (keyword_ex.lower() in paper['abstract'].lower())==1:
+                inclu=0
+        if inclu==1: 
+            keyword_dict.append(paper)
 
+    import datetime
+    
     full_report = '# '+issue_title+'\n'
-    for keyword in keyword_list:
-        full_report = full_report + '## Keyword: ' + keyword + '\n'
+    full_report = full_report + datetime.datetime.now().strftime("%Y-%m-%d") + '\n'
+    full_report = full_report + '## Keyword list: ' + keyword_list + '\n'
 
-        if len(keyword_dict[keyword]) == 0:
+        if len(keyword_dict) == 0:
             full_report = full_report + 'There is no result \n'
 
-        for paper in keyword_dict[keyword]:
+        for paper in keyword_dict:
             report = '### {}\n - **Authors:** {}\n - **Subjects:** {}\n - **Arxiv link:** {}\n - **Pdf link:** {}\n - **Abstract**\n {}' \
                 .format(paper['title'], paper['authors'], paper['subjects'], paper['main_page'], paper['pdf'],
                         paper['abstract'])
@@ -68,7 +83,7 @@ def main(args):
 
     # create an md file using full_report, with the name of date, and upload it to github
     # create a date string
-    import datetime
+    
     filename = './Arxiv_Daily_Notice/'+datetime.datetime.now().strftime("%Y-%m-%d") + '-Arxiv-Daily-Paper.md'
     filename_readme = './README.md'
     print(filename)
