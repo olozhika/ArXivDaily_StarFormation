@@ -67,8 +67,9 @@ def main(args):
     import datetime
     
     full_report = '# '+issue_title+'\n'
-    full_report = full_report + 'Update Star Formation & Molecular Cloud papers at 2am UTC (10am Beijing time) every weekday.'+'\n'
-    full_report = full_report + 'forked from [zhuhu00/Paper-Daily-Notice](https://github.com/zhuhu00/Paper-Daily-Notice). ' + '\n'
+    full_report = full_report + 'Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.'+'\n'
+    full_report = full_report + '\n\n'
+    full_report = full_report + 'Forked from [zhuhu00/Paper-Daily-Notice](https://github.com/zhuhu00/Paper-Daily-Notice). ' + '\n'
     full_report = full_report + datetime.datetime.now().strftime("%Y-%m-%d") + '\n'
     full_report = full_report + '\n\n'
     full_report = full_report + 'Keyword list: ' + str(keyword_list) + '\n'
