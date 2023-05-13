@@ -45,14 +45,6 @@ def main(args):
             "\n", "").strip()
         paper['subjects'] = dd_list[i].find("div", {"class": "list-subjects"}).text.replace("Subjects: ", "").strip()
         paper['abstract'] = dd_list[i].find("p", {"class": "mathjax"}).text.replace("\n", " ").strip()
-
-        '''
-        for keyword in keyword_list:
-            if keyword.lower() in paper['abstract'].lower():
-                for keyword_ex in keyword_ex_list:
-                    if (keyword_ex.lower() in paper['abstract'].lower())==0:
-                        #keyword_dict[keyword].append(paper)
-        '''
                         
         inclu=0
         for keyword in keyword_list:
@@ -70,9 +62,11 @@ def main(args):
     full_report = full_report + 'Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.'+'\n'
     full_report = full_report + '\n\n'
     full_report = full_report + 'Forked from [zhuhu00/Paper-Daily-Notice](https://github.com/zhuhu00/Paper-Daily-Notice). ' + '\n'
-    full_report = full_report + datetime.datetime.now().strftime("%Y-%m-%d") + '\n'
     full_report = full_report + '\n\n'
     full_report = full_report + 'Keyword list: ' + str(keyword_list) + '\n'
+    full_report = full_report + '\n\n'
+    full_report = full_report + 'Excluded: ' + str(keyword_ex_list) + '\n'
+    full_report = full_report + '\n\n'
 
     full_report = full_report + '### Today: ' + str(len(keyword_dict)) + 'papers \n'
     
@@ -84,6 +78,11 @@ def main(args):
                 .format(paper['title'], paper['authors'], paper['subjects'], paper['main_page'], paper['pdf'],
                         paper['abstract'])
         full_report = full_report + report + '\n'
+        
+    full_report = full_report + '\n\n'
+    full_report = full_report + 'by olozhika (Xing Yuchen). ' + '\n'
+    full_report = full_report + '\n\n'
+    full_report = full_report + datetime.datetime.now().strftime("%Y-%m-%d") + '\n'
 
     # full_report = full_report + '\n</details>'
 
