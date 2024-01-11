@@ -48,7 +48,7 @@ def main(args):
                         
         inclu=0
         for keyword in keyword_list:
-            if keyword.lower() in paper['abstract'].lower():
+            if keyword.lower() in paper['abstract'].lower() or keyword.lower() in paper['title'].lower():
                 inclu=1
         for keyword_ex in keyword_ex_list:
             if (keyword_ex.lower() in paper['abstract'].lower())==1:
