@@ -37,7 +37,7 @@ def main(args):
 
     for i in range(len(dt_list)):
         paper = {}
-        paper_number = dt_list[i].text.strip().split(":")[1] #[2].split(":")[-1]
+        paper_number = dt_list[i].text.strip().split(":")[1][:11] #[2].split(":")[-1]
         paper['main_page'] = arxiv_base + paper_number
         paper['pdf'] = arxiv_base.replace('abs', 'pdf') + paper_number
         #print(dt_list[i])
