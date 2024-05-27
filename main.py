@@ -22,7 +22,7 @@ def main(args):
     soup = bs(page, 'html.parser')
     content = soup.body.find("div", {'id': 'content'})
 
-    issue_title = content.find("h3").text
+    issue_title = content.find("h3").text.split("(")[0].strip()
     dt_list = content.dl.find_all("dt")
     dd_list = content.dl.find_all("dd")
     arxiv_base = "https://arxiv.org/abs/"
