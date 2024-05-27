@@ -75,7 +75,7 @@ def main(args):
         full_report = full_report + 'There is no result \n'
 
     for paper in keyword_dict:
-        report = f'#### {paper['title']}\n - **Authors:** {paper['authors']}\n - **Subjects:** {paper['subjects']}\n - **Arxiv link:** {paper['main_page']}\n - **Pdf link:** {paper['pdf']}\n - **Abstract**\n {paper['abstract']}'
+        report = f"#### {paper['title']}\n - **Authors:** {paper['authors']}\n - **Subjects:** {paper['subjects']}\n - **Arxiv link:** {paper['main_page']}\n - **Pdf link:** {paper['pdf']}\n - **Abstract**\n {paper['abstract']}"
         full_report = full_report + report + '\n'
         
     full_report = full_report + '\n\n'
