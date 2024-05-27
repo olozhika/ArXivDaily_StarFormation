@@ -1,6 +1,7 @@
 # New submissions for Monday, 27 May 2024 (showing 56 of 56 entries )
 Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.
 
+A workflow error occurs! the code may fail, will fix in days.   -- olozhika, 2024/05/27
 
 阅读 `Usage.md`了解如何使用此repo实现个性化的Arxiv论文推送
 
