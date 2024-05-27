@@ -51,8 +51,15 @@ jobs:
       - name: Setup GIT user
         uses: fregante/setup-git-user@v2.0.1
 
-      - name: Push done work
+      - name: Check for changes and commit
         run: |
-          git add --all
-          git commit -m "Automated deployment"
-          git push --force origin main
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "There are changes to commit."
+            git add --all
+            git commit -m "Commit message if there are changes"
+            git push --force origin ${{ github.ref }}
+          else
+            echo "No changes to commit."
+          fi
+        shell: bash
