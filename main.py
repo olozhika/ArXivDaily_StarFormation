@@ -27,6 +27,7 @@ def main(args):
     dd_list = content.dl.find_all("dd")
     arxiv_base = "https://arxiv.org/abs/"
 
+    print(dt_list)
     assert len(dt_list) == len(dd_list)
 
     keyword_list = KEYWORD_LIST
@@ -39,6 +40,8 @@ def main(args):
         paper_number = dt_list[i].text.strip().split(" ")[2].split(":")[-1]
         paper['main_page'] = arxiv_base + paper_number
         paper['pdf'] = arxiv_base.replace('abs', 'pdf') + paper_number
+        print(page_number)
+        print(dt_list[i].text.strip())
 
         paper['title'] = dd_list[i].find("div", {"class": "list-title mathjax"}).text.replace("Title: ", "").strip()
         paper['authors'] = dd_list[i].find("div", {"class": "list-authors"}).text.replace("Authors:\n", "").replace(
