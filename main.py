@@ -45,6 +45,9 @@ def main(args):
 
         paper['title'] = dd_list[i].find("div", {"class": "list-title mathjax"}).text.replace("Authors:\n", "").strip()
         print(paper['title'])
+        print(len(paper['title']))
+        for i in range(len(paper['title'])):
+            print(paper['title'][i])
         paper['authors'] = dd_list[i].find("div", {"class": "list-authors"}).text.replace("Authors:\n", "").replace("\n", "").strip()
         paper['subjects'] = dd_list[i].find("div", {"class": "list-subjects"}).text.replace("Subjects: ", "").strip()
         paper['abstract'] = dd_list[i].find("p", {"class": "mathjax"}).text.replace("\n", " ").strip()
