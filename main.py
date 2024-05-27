@@ -43,7 +43,7 @@ def main(args):
         #print(dt_list[i])
         #print(dd_list[i])
 
-        paper['title'] = dd_list[i].find("div", {"class": "list-title mathjax"}).text.replace("Title: ", "").strip()
+        paper['title'] = dd_list[i].find("div", {"class": "list-title mathjax"}).text.split(":").strip()
         print(paper['title'])
         paper['authors'] = dd_list[i].find("div", {"class": "list-authors"}).text.replace("Authors:\n", "").replace("\n", "").strip()
         paper['subjects'] = dd_list[i].find("div", {"class": "list-subjects"}).text.replace("Subjects: ", "").strip()
