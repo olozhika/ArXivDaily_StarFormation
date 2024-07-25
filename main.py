@@ -99,7 +99,9 @@ def main(args):
     with open(filename_readme, 'w+') as f:
         f.write(full_report)
 
-    make_github_issue(title=issue_title, body=full_report,labels=keyword_list, 
+    now = datetime.now()
+    current_hour = now.hour
+    if current_hour==2: make_github_issue(title=issue_title, body=full_report,labels=keyword_list, 
     TOKEN=os.environ['TOKEN'])
     print("end")
 
