@@ -1,4 +1,4 @@
-# Showing new listings for Monday, 23 September 2024
+# Showing new listings for Tuesday, 24 September 2024
 Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.
 
 
@@ -13,147 +13,117 @@ Keyword list: ['star formation', 'star-forming', 'molecular cloud', 'interstella
 Excluded: ['galaxies', 'galaxy cluster', ' AGN ']
 
 
-### Today: 14papers 
-#### The Extreme Activity in Comet Hale-Bopp (C/1995 O1): Investigations of Extensive, Narrowband Photoelectric Photometry
- - **Authors:** David G. Schleicher, Peter V. Birch, Tony L. Farnham, Allison N. Bair
- - **Subjects:** Subjects:
-Earth and Planetary Astrophysics (astro-ph.EP)
- - **Arxiv link:** https://arxiv.org/abs/2409.13005
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13005
-
- - **Abstract**
- Conventional narrowband photoelectric photometry of Comet Hale-Bopp (1995 O1) was obtained on 99 nights from mid-1995 to early-2000, yielding gas and dust production rates over an unprecedented range of time and distance. The appearance of Hale-Bopp presented a prime opportunity for active comet studies and its inherent brightness and orbital geometry allowed the characterization of its long-term activity. Throughout the apparition Hale-Bopp released, by far, more gas and dust than any other comet ever measured. As a very high dust-to-gas ratio object, dust production was successfully measured throughout the apparition, with dust consistently slightly red in color. All five gas species including OH and NH were detected just inside of 5 AU inbound, while C2 and C3 were detected to just past 5 AU outbound and CN was followed until nearly 7.7 AU. Heliocentric distance dependencies ranged between -1.2 to -2.7 in log-log space, with the extremes magnified by the large extrapolations in Haser model parameters at large distances. Hale-Bopp's enormous size and associated extremely high outgassing resulted in a much larger collisional zone, which in turn yielded outflow velocities more than 2x higher than ever previously measured at comparable distances. Even so, volatile composition remained within the "typical" classification, consistent with most Oort Cloud comets, and water production follows the expected curve based on a standard water vaporization model. However, seasonal effects provided evidence for inhomogeneities among the major source regions on the surface of the nucleus. Preliminary modeling of the nucleus and coma successfully matches this seasonal behavior.
-#### Running with the Bulls: The frequency of star-disc encounters in the Taurus star forming region
- - **Authors:** Andrew J. Winter, Myriam Benisty, Linling Shuai, Gaspard Dûchene, Nicolás Cuello, Rossella Anania, Corentin Cadiou, Isabelle Joncour
- - **Subjects:** Subjects:
-Earth and Planetary Astrophysics (astro-ph.EP); Astrophysics of Galaxies (astro-ph.GA); Solar and Stellar Astrophysics (astro-ph.SR)
- - **Arxiv link:** https://arxiv.org/abs/2409.13021
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13021
-
- - **Abstract**
- Stars and planets form in regions of enhanced stellar density, subjecting protoplanetary discs to gravitational perturbations from neighbouring stars. Observations in the Taurus star-forming have uncovered evidence of at least three recent, star-disc encounters that have truncated discs (HV/DO Tau, RW Aurigae, UX Tau), raising questions about the frequency of such events. We aim to assess the probability of observing truncating star-disc encounters in Taurus. We generate a physically motivated dynamical model including binaries and spatial-kinematic substructure to follow the historical dynamical evolution and stellar encounters in the Taurus star forming region. We track the star-disc encounters and outer disc radius evolution over the lifetime of Taurus. A quarter of discs are truncated below 30 au by dynamical encounters, but this truncation mostly occurs in binaries over the course of a few orbital periods, on a time-scale $\lesssim 0.1$ Myr. Nonetheless, some truncating encounters still occur up to the present age of Taurus. Strongly truncating encounters (ejecting $\gtrsim 10$ percent of the disc mass) occur at a rate $\sim 10$ Myr$^{-1}$, sufficient to explain the encounter between HV and DO Tau $\sim 0.1$ Myr ago. If encounters that eject only $\sim 1$ percent of the disc mass are responsible for RW Aurigae and UX Tau, then they are also expected with encounter rate $\Gamma_\mathrm{enc} \sim 100{-}200$ Myr$^{-1}$. However, the observed sample of recent encounters is probably incomplete, since these examples occurred in systems that are not consistent with random drawing from the mass function. One more observed example would statistically imply additional physics, such as replenishment of the outer disc material.
-#### Correlations of Methyl Formate (CH3OCHO), Dimethyl Ether (CH3OCH3) and Ketene (H2CCO) in High-mass Star-forming Regions
- - **Authors:** Chuanshou Li (1), Sheng-Li Qin (1), Tie Liu (2), Sheng-Yuan Liu (3), Mengyao Tang (4), Hong-Li Liu (1), Li Chen (1), Xiaohu Li (5), Fengwei Xu (6 and 7), Tianwei Zhang (8 and 9), Meizhu Liu (1), Hongqiong Shi (1), Yuefang Wu (7) ((1) School of Physics and Astronomy, Yunnan University, People's Republic of China, (2) Shanghai Astronomical Observatory, Chinese Academy of Sciences, People's Republic of China, (3) Academia Sinica Institute of Astronomy and Astrophysics, Taiwan, (4) Institute of Astrophysics, School of Physics and Electronic Science, Chuxiong Normal University, People's Republic of China, (5) Xinjiang Astronomical Observatory, Chinese Academy of Sciences, China, (6) Kavli Institute for Astronomy and Astrophysics, Peking University, People's Republic of China, (7) Department of Astronomy, School of Physics, Peking University, People's Republic of China, (8) I. Physikalisches Institut, Universität zu Köln, Germany, (9) Research Center for Intelligent Computing Platforms, Zhejiang Laboratory, P .R.China)
+### Today: 11papers 
+#### oMEGACat IV: Constraining Ages of Omega Centauri sub-giant branch stars with HST and MUSE
+ - **Authors:** C. Clontz, A. C. Seth, A. Dotter, M. Häberle, M. S. Nitschai, N. Neumayer, A. Feldmeier-Krause, M. Latour, Z. Wang, S. O. Souza, N. Kacharov, A. Bellini, M. Libralato, R. Pechetti, G. van de Ven, M. Alfaro-Cuello
  - **Subjects:** Subjects:
 Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2409.13192
+ - **Arxiv link:** https://arxiv.org/abs/2409.13855
 
- - **Pdf link:** https://arxiv.org/pdf/2409.13192
+ - **Pdf link:** https://arxiv.org/pdf/2409.13855
 
  - **Abstract**
- We present high-spatial-resolution (0.7 to 1.0 arcsec) submillimeter observations of continuum and molecular lines of CH3OCHO, CH3OCH3, and H2CCO toward 11 high-mass star-forming regions using the Atacama Large Millimetre/submillimetre Array (ALMA). A total of 19 separate cores from 9 high-mass star-forming regions are found to be line-rich, including high-, intermediate-, and low-mass line-rich cores. The three molecules are detected in these line-rich cores. We map the emission of CH3OCHO, CH3OCH3, and H2CCO in 9 high-mass star-forming regions. The spatial distribution of the three molecules is very similar and concentrated in the areas of intense continuum emission. We also calculate the rotation temperatures, column densities, and abundances of CH3OCHO, CH3OCH3, and H2CCO under the local thermodynamic equilibrium (LTE) assumption. The abundances relative to H2 and CH3OH, and line widths of the three molecules are significantly correlated. The abundances relative to H2, temperatures and line widths of the three molecules tend to be higher in cores with higher mass and outflows detected. The possible chemical links of the three molecules are discussed.
-#### A survey of sulfur-bearing molecular lines toward the dense cores in eleven massive protoclusters
- - **Authors:** Mengyao Tang, Sheng-Li Qin, Tie Liu, Luis A. Zapata, Xunchuan Liu, Yaping Peng, Fengwei Xu, Chao Zhang, Ken'ichi Tatematsu
+ We present age estimates for over 8100 sub-giant branch (SGB) stars in Omega Centauri ($\omega$ Cen) to study its star formation history. Our large data set, which combines multi-wavelength HST photometry with MUSE metallicities, provides an unprecedented opportunity to measure individual stellar ages. We do this by fitting each star's photometry and metallicity with theoretical isochrones, that are embedded with an empirical [C+N+O]-[Fe/H] relation specifically for $\omega$ Cen. The bulk of the stars have ages between 13 and 10 Gyr, with the mean stellar age being 12.08$\pm$0.01 Gyrs and the median age uncertainty being 0.68 Gyrs. From these ages we construct the most complete age-metallicity relation (AMR) for $\omega$ Cen to date. We find that the mean age of stars decreases with increasing metallicity and find two distinct streams in the age-metallicity plane, hinting at different star formation pathways. We derive an intrinsic spread in the ages of 0.75$\pm$0.01 Gyr for the whole cluster, with the age spread showing a clear increase with metallicity. We verify the robustness of our age estimations by varying isochrone parameters and constraining our systematics. We find the C+N+O relation to be the most critical consideration for constraining the AMR. We also present the SGB chromosome map with age information. In the future, these stellar ages could be combined with chemical abundances to study age differences in subpopulations, and uncover the chemical evolution history of this massive nuclear star cluster.
+#### Enhancing Multivariate Time Series-based Solar Flare Prediction with Multifaceted Preprocessing and Contrastive Learning
+ - **Authors:** MohammadReza EskandariNasab, Shah Muhammad Hamdi, Soukaina Filali Boubrahimi
  - **Subjects:** Subjects:
-Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2409.13231
+Solar and Stellar Astrophysics (astro-ph.SR); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Machine Learning (stat.ML)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14016
 
- - **Pdf link:** https://arxiv.org/pdf/2409.13231
+ - **Pdf link:** https://arxiv.org/pdf/2409.14016
 
  - **Abstract**
- Sulfur-bearing molecules are commonly detected in dense cores within star-forming regions, but the total sulfur budget is significantly low, when compared to the interstellar medium (ISM) value. The properties of sulfur-bearing molecules are not well understood due to the absence of large sample studies with uniform observational configurations. To deepen our understanding of this subject, we conducted a study using ALMA 870 \micron~observations of 11 massive protoclusters. By checking the spectra of 248 dense cores in 11 massive protoclusters, a total of 10 sulfur-bearing species (CS, SO, \htcs, NS, \sot, \ttso, \tfsot, \ttsot, \seoo, \octfs) were identified. The parameters including systemic velocities, line widths, gas temperatures, column densities, and abundances were derived. Our results indicate that SO appears to be more easily detected in a wider range of physical environments than \htcs, despite these two species show similarities in gas distributions and abundances. \tfsot~and \htcs~are good tracers of the temperature of sulfur-bearing species, in which \htcs~traces the outer warm envelope and \tfsot~is associated with high-temperature central-regions. High-mass star-forming feedback (outflow and other non-thermal motions) significantly elevates the sulfur-bearing molecular abundances and detection rates specifically for \sot~and SO. A positive correlation between the \sot~abundance increasing factor ($F$) and temperatures suggests that \sot~could serve as a sulfur reservoir on the grain mantles of dense cores and then can be desorbed from dust to gas phase as the temperature rises. This work shows the importance of a large and unbiased survey to understand the sulfur depletion in dense cores.
-#### Sulfur on Venus: Atmospheric, Surface, and Interior Processes
- - **Authors:** Mikhail Zolotov
+ Accurate solar flare prediction is crucial due to the significant risks that intense solar flares pose to astronauts, space equipment, and satellite communication systems. Our research enhances solar flare prediction by utilizing advanced data preprocessing and classification methods on a multivariate time series-based dataset of photospheric magnetic field parameters. First, our study employs a novel preprocessing pipeline that includes missing value imputation, normalization, balanced sampling, near decision boundary sample removal, and feature selection to significantly boost prediction accuracy. Second, we integrate contrastive learning with a GRU regression model to develop a novel classifier, termed ContReg, which employs dual learning methodologies, thereby further enhancing prediction performance. To validate the effectiveness of our preprocessing pipeline, we compare and demonstrate the performance gain of each step, and to demonstrate the efficacy of the ContReg classifier, we compare its performance to that of sequence-based deep learning architectures, machine learning models, and findings from previous studies. Our results illustrate exceptional True Skill Statistic (TSS) scores, surpassing previous methods and highlighting the critical role of precise data preprocessing and classifier development in time series-based solar flare prediction.
+#### Simulating the formation and eruption of flux rope by magneto-friction model driven by time-dependent electric fields
+ - **Authors:** P. Vemareddy
  - **Subjects:** Subjects:
-Earth and Planetary Astrophysics (astro-ph.EP)
- - **Arxiv link:** https://arxiv.org/abs/2409.13256
+Solar and Stellar Astrophysics (astro-ph.SR)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14045
 
- - **Pdf link:** https://arxiv.org/pdf/2409.13256
+ - **Pdf link:** https://arxiv.org/pdf/2409.14045
 
  - **Abstract**
- Sulfur-bearing species play critical roles in atmospheric physical-chemical processes, atmosphere-surface interactions, and the geological evolution of Venus. This chapter provides a comprehensive overview of (1) Instrumental data on the abundance and speciation of sulfur in atmospheric and crustal materials, (2) the behavior of sulfur-bearing species in the mesosphere, clouds, and lower atmosphere, (3) chemical and mineralogical aspects of atmosphere-surface interactions, (4) the fate of sulfur during the formation, differentiation, and geological evolution of Venus, including volcanic degassing, gas-solid reactions at the surface, a putative aqueous period, and subsequent evolution. The chapter also outlines outstanding questions and discusses further exploration of Venus in the context of sulfur-relevant investigations.
-#### White Dwarf Systems: the Composition of Exoplanets
- - **Authors:** Amy Bonsor
+ Aiming to capture the formation and eruption of flux ropes (FRs) in the source active regions (ARs), we simulate the coronal magnetic field evolution of the AR 11429 employing the time-dependent magneto-friction model (TMF). The initial field is driven by electric fields that are derived from time-sequence photospheric vector magnetic field observations by invoking ad-hoc assumptions. The simulated magnetic structure evolves from potential to twisted fields over the course of two days, followed by rise motion in the later evolution, depicting the formation of FR and its slow eruption later. The magnetic configuration resembles an inverse S-sigmoidal structure, composed of a potential field enveloping the inverse J-shaped fields that are shared past one another and a low lying twisted field along the major PIL. To compare with observations, proxy emission maps based on averaged current density along the field lines are generated from the simulated field. These emission maps exhibit a remarkable one-to-one correspondence with the spatial characteristics in coronal EUV images, especially the filament-trace supported by the twisted magnetic field in the south-west subregion. Further, the topological analysis of the simulated field reveals the co-spatial flare ribbons with the quasi-separatrix layers, which is consistent with the standard flare models; therefore, the extent of the twist and orientation of the erupting FR is indicated to be the real scenario in this case. The TMF model simulates the coronal field evolution, correctly capturing the formation of the FR in the observed time scale and the twisted field generated from these simulations serve as the initial condition for the full MHD simulations.
+#### SN 2023tsz: A helium-interaction driven supernova in a very low-mass galaxy
+ - **Authors:** B. Warwick, J. Lyman, M. Pursiainen, D. L. Coppejans, L. Galbany, G. T. Jones, T. L. Killestein, A. Kumar, S. R. Oates, K. Ackley, J. P. Anderson, A. Aryan, R. P. Breton, T. W. Chen, P. Clark, V. S. Dhillon, M. J. Dyer, A. Gal-Yam, D. K. Galloway, C. P. Gutiérrez, M. Gromadzki, C. Inserra, F. Jiménez-Ibarra, L. Kelsey, R. Kotak, T. Kravtsov, H. Kuncarayakti, M. R. Magee, K. Matilainen, S. Mattila, T. E. Müller-Bravo, M. Nicholl, K. Noysena, L. K. Nuttall, P. O'Brien, D. O'Neill, E. Pallé, T. Pessi, T. Petrushevska, G. Pignata, D. Pollacco, F. Ragosta, G. Ramsay, A. Sahu, D. K. Sahu, A. Singh, J. Sollerman, E. Stanway, R. Starling, D. Steeghs, R. S. Teja, K. Ulaczyk
+ - **Subjects:** Subjects:
+High Energy Astrophysical Phenomena (astro-ph.HE)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14147
+
+ - **Pdf link:** https://arxiv.org/pdf/2409.14147
+
+ - **Abstract**
+ SN 2023tsz is a Type Ibn supernova (SNe Ibn) discovered in an extremely low-mass host. SNe Ibn are an uncommon subtype of stripped-envelope core-collapse SNe. They are characterised by narrow helium emission lines in their spectra and are believed to originate from the collapse of massive Wolf-Rayet (WR) stars, though their progenitor systems still remain poorly understood. In terms of energetics and spectrophotometric evolution, SN 2023tsz is largely a typical example of the class, although line profile asymmetries in the nebular phase are seen, which may indicate the presence of dust formation or unshocked circumstellar material. Intriguingly, SN 2023tsz is located in an extraordinarily low-mass host galaxy that is in the 2nd percentile for SESN host masses and star formation rates (SFR). The host has a radius of 1.0 kpc, a $g$-band absolute magnitude of $-12.73$, and an estimated metallicity of $\log(Z_{*}/Z_{\odot}$) = $-1.56$. The SFR and metallicity of the host galaxy raise questions about the progenitor of SN 2023tsz. The low SFR suggests that a star with sufficient mass to evolve into a WR would be uncommon in this galaxy. Further, the very low-metallicity is a challenge for single stellar evolution to enable H and He stripping of the progenitor and produce a SN Ibn explosion. The host galaxy of SN 2023tsz adds another piece to the ongoing puzzle of SNe Ibn progenitors, and demonstrates that they can occur in hosts too faint to be observed in contemporary sky surveys at a more typical SN Ibn redshift.
+#### Shock breakouts from compact CSM surrounding core-collapse SN progenitors may contribute significantly to the observed $\gtrsim10$ TeV neutrino background
+ - **Authors:** E. Waxman, T. Wasserman, E. Ofek, A. Gal-Yam
+ - **Subjects:** Subjects:
+High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Phenomenology (hep-ph)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14233
+
+ - **Pdf link:** https://arxiv.org/pdf/2409.14233
+
+ - **Abstract**
+ Growing observational evidence suggests that enhanced mass loss from the progenitors of core-collapse supernovae (SNe) is common during $\sim1$ yr preceding the explosion, creating an optically thick circum-stellar medium (CSM) shell at $\sim10^{14.5}$ cm radii. We show that if such mass loss is indeed common, then the breakout of the SN shock through the dense CSM shell produces a neutrino flux that may account for a significant fraction of the observed $\gtrsim10$ TeV neutrino background. The neutrinos are created within a few days from the explosion, during and shortly after the shock breakout, which produces also large UV (and later X-ray) luminosity. The compact size and large UV luminosity imply a pair production optical depth of $\sim10^4$ for $>100$ GeV photons, naturally accounting for the lack of a high-energy gamma-ray background accompanying the neutrino background. SNe producing $>1$ neutrino event in a 1 km$^2$ detector are expected at a rate of $\lesssim0.1$/yr. A quantitative theory describing the evolution of the electromagnetic spectrum during a breakout, as the radiation-mediated shock is transformed into a collisionless one, is required to enable (i) using data from upcoming surveys that will systematically detect large numbers of young, $<1$ d old SNe, to determine the pre-explosion mass loss history of the SN progenitor population, and (ii) a quantitative determination of the neutrino luminosity and spectrum.
+#### ALMASOP. The Localized and Chemically rich Features near the Bases of the Protostellar Jet in HOPS 87
+ - **Authors:** Shih-Ying Hsu, Chin-Fei Lee, Sheng-Yuan Liu, Doug Johnstone, Tie Liu, Satoko Takahashi, Leonardo Bronfman, Huei-Ru Vivien Chen, Somnath Dutta, David J. Eden, Neal J. Evans II, Naomi Hirano, Mika Juvela, Yi-Jehng Kuan, Woojin Kwon, Chang Won Lee, Jeong-Eun Lee, Shanghuo Li, Chun-Fan Liu, Xunchuan Liu, Qiuyi Luo, Sheng-Li Qin, Dipen Sahu, Patricio Sanhueza, Hsien Shang, Kenichi Tatematsu, Yao-Lun Yang
+ - **Subjects:** Subjects:
+Solar and Stellar Astrophysics (astro-ph.SR); Astrophysics of Galaxies (astro-ph.GA)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14445
+
+ - **Pdf link:** https://arxiv.org/pdf/2409.14445
+
+ - **Abstract**
+ HOPS 87 is a Class 0 protostellar core known to harbor an extremely young bipolar outflow and a hot corino. We report the discovery of localized, chemically rich regions near the bases of the two-lobe bipolar molecular outflow in HOPS 87 containing molecules such as H$_2$CO, $^{13}$CS, H$_2$S, OCS, and CH$_3$OH, the simplest complex organic molecule (COM). The locations and kinematics suggest that these localized features are due to jet-driven shocks rather than being part of the hot corino region encasing the protostar. The COM compositions of the molecular gas in these jet-localized regions are relatively simpler than those in the hot corino zone. We speculate that this simplicity is due to either the liberation of ice with a less complex chemical history or the effects of shock chemistry. Our study highlights the dynamic interplay between the protostellar bipolar outflow, disk, inner core environment, and the surrounding medium, contributing to our understanding of molecular complexity in solar-like young stellar objects.
+#### $Mesiri$:Mephisto Early Supernovae Ia Rapid Identifier
+ - **Authors:** Zhang Lunwei, Wang Zhenyu, Liu Dezi, Fang Yuan, Chen Bingqiu, Kumar Brajesh, Er Xinzhong, Liu Xiaowei
+ - **Subjects:** Subjects:
+Instrumentation and Methods for Astrophysics (astro-ph.IM)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14498
+
+ - **Pdf link:** https://arxiv.org/pdf/2409.14498
+
+ - **Abstract**
+ The early time observations of Type Ia supernovae (SNe Ia) play a crucial role in investigating and resolving longstanding questions about progenitor stars and the explosion mechanisms of these events. Colors of supernovae (SNe) in the initial days after the explosion can help differentiate between different types of SNe. However, the use of true color information to identify SNe Ia at the early-time explosion is still in its infancy. The Multi-channel Photometric Survey Telescope (Mephisto) is a photometric survey telescope equipped with three CCD cameras, capable of simultaneously imaging the same patch of sky in three bands (\emph{u, g, i} or \emph{v, r, z}), yielding real-time colors of astronomical objects. In this paper, we introduce a new time-series classification tool named Mephisto Early Supernovae Ia Rapid Identifier (\emph{\texttt{Mesiri}}), which for the first time, utilizes real-time color information to distinguish early-time SNe Ia from core-collapse supernovae (CCSNe). \emph{\texttt{Mesiri}} is based on the deep learning approach and can achieve an accuracy of $96.75\pm0.79$\%, and AUC of $98.87\pm0.53$\% in case of single epoch random observation before the peak brightness. These values reach towards perfectness if additional data points on several night observations are considered. The classification with real-time color significantly outperforms that with pseudo-color, especially at the early time, i.e., with only a few points of observations. The architecture of BiLSTM shows the best performance than the others that have been tested in this work.
+#### Evaluating Machine Learning Models for Supernova Gravitational Wave Signal Classification
+ - **Authors:** Y. Sultan Abylkairov, Matthew C. Edwards, Daniil Orel, Ayan Mitra, Bekdaulet Shukirgaliyev, Ernazar Abdikamalov
+ - **Subjects:** Subjects:
+High Energy Astrophysical Phenomena (astro-ph.HE); General Relativity and Quantum Cosmology (gr-qc)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14508
+
+ - **Pdf link:** https://arxiv.org/pdf/2409.14508
+
+ - **Abstract**
+ We investigate the potential of using gravitational wave (GW) signals from rotating core-collapse supernovae to probe the equation of state (EOS) of nuclear matter. By generating GW signals from simulations with various EOSs, we train machine learning models to classify them and evaluate their performance. Our study builds on previous work by examining how different machine learning models, parameters, and data preprocessing techniques impact classification accuracy. We test convolutional and recurrent neural networks, as well as six classical algorithms: random forest, support vector machines, naive Bayes, logistic regression, k-nearest neighbors, and eXtreme gradient boosting. All models, except naive Bayes, achieve over 90 per cent accuracy on our dataset. Additionally, we assess the impact of approximating the GW signal using the general relativistic effective potential (GREP) on EOS classification. We find that models trained on GREP data exhibit low classification accuracy. However, normalizing time by the peak signal frequency, which partially compensates for the absence of the time dilation effect in GREP, leads to a notable improvement in accuracy.
+#### Laboratorial radiative shocks with multiple parameters and first quantifying verifications to core-collapse supernovae
+ - **Authors:** Lu Zhang, Jianhua Zheng, Zhenghua Yang, Tianming Song, Shuai Zhang, Tong Liu, Yunfeng Wei, Longyu Kuang, Longfei Jing, Zhiwei Lin, Liling Li, Hang Li, Jinhua Zheng, Pin Yang, Yuxue Zhang, Zhiyu Zhang, Yang Zhao, Zhibing He, Ping Li, Dong Yang, Jiamin Yang, Zongqing Zhao, Yongkun Ding
+ - **Subjects:** Subjects:
+High Energy Astrophysical Phenomena (astro-ph.HE); High Energy Physics - Experiment (hep-ex)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14699
+
+ - **Pdf link:** https://arxiv.org/pdf/2409.14699
+
+ - **Abstract**
+ We present experiments to reproduce the characteristics of core-collapse supernovae with different stellar masses and initial explosion energies in the laboratory. In the experiments, shocks are driven in 1.2 atm and 1.9 atm xenon gas by laser with energy from 1600J to 2800J on the SGIII prototype laser facility. The average shock velocities and shocked densities are obtained from experiments. Experimental results reveal that higher laser energy and lower Xe gas density led to higher shock velocity, and lower Xe gas initial density has a higher compression. Modeling of the experiments using the 2D radiation hydrodynamic codes Icefire shows excellent agreement with the experimental results and gives the temperature. These results will contribute to time-domain astrophysical systems, such as gravitational supernovae, where a strong radiative shock propagates outward from the center of the star after the core collapses.
+#### Simultaneous Multiband Photometry of the Early Optical Afterglow of GRB 240825A with Mephisto
+ - **Authors:** Yehao Cheng, Yu Pan, Yuan-Pei Yang, Jinghua Zhang, Guowang Du, Yuan Fang, Brajesh Kumar, Helong Guo, Xinzhong Er, Xinlei Chen, Chenxu Liu, Tao Wang, Zhenfei Qin, Yicheng Jin, Xingzhu Zou, Xuhui Han, Pinpin Zhang, Liping Xin, Chao Wu, Jianhui Lian, Xiangkun Liu, Xiaowei Liu
+ - **Subjects:** Subjects:
+High Energy Astrophysical Phenomena (astro-ph.HE)
+ - **Arxiv link:** https://arxiv.org/abs/2409.14716
+
+ - **Pdf link:** https://arxiv.org/pdf/2409.14716
+
+ - **Abstract**
+ Gamma-ray bursts (GRBs) are the most luminous transients in the universe. The interaction of the relativistic jet with the circumburst medium produces an afterglow and generates multiwavelength emission. In this work, we present simultaneous multiband photometry of GRB~240825A with the Multi-channel Photometric Survey Telescope (Mephisto) and analyze its temporal and spectral properties. The measurement began 128 seconds after the GRB trigger and continued until the fourth day when the afterglow essentially diminished and the measured brightness was close to that of the host galaxy. Based on the multiband light curves in the $uvgriz$ bands, we find that the optical flux density satisfies $F_{\nu,{\rm obs}}\propto t^{-1.34}\nu^{-2.48}$ with a spectral index of $2.48$ much larger than those of most other GRBs. To reconcile the measured much softer spectral energy distribution (SED) with that predicted by the standard afterglow model, an extra host-galaxy extinction of $E_{B-V}\sim(0.37-0.57)$ mag is required. We interpreted this excess as arising from a dense circumburst medium. We further find that the SED of the optical afterglow hardened as the afterglow decayed and the color excess $E_{B-V}$ decreased $\sim0.21$ mag in the first 3000 seconds. Finally, we analyze the properties of the host galaxy of GRB~240825A based on data from the SDSS, PanSTARRS and HSC-SSP surveys. For a host redshift of $z=0.659$, the stellar mass and star formation rate of the host galaxy are estimated to be $\log(M_*/M_\odot)=10.0^{+0.3}_{-0.3}$ and $\log({\rm SFR}/M_{\odot}{\rm yr}^{-1})= 0.6^{+0.8}_{-3.3}$, respectively, pointing to a gas-rich, star-forming, medium-size galaxy.
+#### Partial disruption of a planet around a white dwarf: the effect of perturbation from the remnant planet on the accretion
+ - **Authors:** Abdusattar Kurban, Xia Zhou, Na Wang, Yong-Feng Huang, Yu-Bin Wang, Nurimangul Nurmamat
  - **Subjects:** Subjects:
 Earth and Planetary Astrophysics (astro-ph.EP); Solar and Stellar Astrophysics (astro-ph.SR)
- - **Arxiv link:** https://arxiv.org/abs/2409.13294
+ - **Arxiv link:** https://arxiv.org/abs/2409.14717
 
- - **Pdf link:** https://arxiv.org/pdf/2409.13294
-
- - **Abstract**
- We live in an exoplanet revolution, with more than 5,000 exoplanets detected to date. Our ability to characterise individual exoplanets is constantly improving, with exquisite mass and radius measurements for an ever-growing sample of planets, complimented by atmospheric characterisation of lower and lower mass planets. This chapter outlines a complimentary set of observations that uniquely provide bulk elemental compositions for exoplanetary material. Absorption features from metals, including Mg, Fe, Si, O, Ca, Al, Ni and Ti in the white dwarf photosphere characterise the composition of accreted planetary material. These observations highlight the diversity in composition across exoplanetary systems including volatile content and probe key geological processes including the formation of iron cores. Thanks to the many white dwarfs identified by the space satellite {\it Gaia}, a revolution in the spectroscopic characterisation of white dwarfs is underway.
-#### Revealing the state transition of Cen X-3 at high spectral resolution with Chandra
- - **Authors:** Graciela Sanjurjo-Ferrín, Jose Miguel Torrejón, Lida Oskinova, Konstantin Postnov, Jose Joaquín Rodes-Roca, Norbert Schulz, Michael Nowak
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2409.13320
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13320
+ - **Pdf link:** https://arxiv.org/pdf/2409.14717
 
  - **Abstract**
- Cen X-3 is a compact, high-mass X-ray binary (HMXRB), likely powered by Roche lobe overflow. We present a phase-resolved X-ray spectral and timing analysis of a target of opportunity \textit{Chandra} observation made during a low-flux to high-flux transition. The high-resolution spectra allow us to delve into the events that occurred during this episode. The spectrum is described by a single black body absorbed by a local column density of the order of $10^{23-24}$ cm$^{-2}$, which is one to two orders of magnitude higher than found for previous analyses of data taken at similar orbital phases. Such a large column produces a Compton shoulder in the Fe K$\alpha$ line. The transition appears to be caused by the onset of efficient cooling, which cools the plasma by 10 million degrees in just 10 ks, allowing matter to enter the magnetosphere. This happens after a major disturbance, probably the arrival of a train of wind clumps with individual masses in the range $10^{19-20}$ g. This train moves ballistically in an eccentric orbit around the NS, producing a distinctive Doppler modulation in the \ion{Fe}{xxv} line.
-#### Probing the low-velocity regime of non-radiative shocks with neutron stars
- - **Authors:** S.K. Ocker, M. Cosens
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2409.13525
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13525
-
- - **Abstract**
- Non-radiative shocks accelerate particles and heat astrophysical plasmas. While supernova remnants are the most well-studied example, neutron star (NS) bow shocks are also non-radiative and Balmer-dominated. NS bow shocks are likely ubiquitous in the interstellar medium due to their large speeds imparted at birth, and they are thought to be a discrete source population contributing to the Galactic cosmic ray spectrum. To date, nine NS bow shocks have been directly observed in H$\alpha$ images. Most of these shocks have been characterized using narrowband H$\alpha$ imaging and slit spectroscopy, which do not resolve the multi-component velocity structure of the shocks and their spatial geometry. Here we present integral field spectroscopy of three NS bow shocks: J0742$-$2822, J1741$-$2054, and J2225$+$6535 (the Guitar Nebula). We measure the shock properties simultaneously in four dimensions: the 2D projected shock morphology, the radial velocity structure, and the H$\alpha$ flux. The broad-to-narrow line ratio ($I_{\rm b}/I_{\rm n}$) is inferred from radial velocity profiles, and for J1741$-$2054 the narrow line is detected in multiple regions of the shock. The inferred line ratios and widths suggest that NS bow shocks represent a low shock velocity regime in which electron-ion temperature equilibration is low, contrary to the trend seen in supernova remnants. While the low velocity regime is poorly captured by state-of-the-art simulations, these results may imply electron injection efficiency is lower for bow shocks than their counterparts in supernova remnants.
-#### Spectropolarimetric modeling of interacting Type II supernovae. Application to early-time observations of SN1998S
- - **Authors:** Luc Dessart, Douglas C. Leonard, Sergiy S. Vasylyev, D. John Hillier
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE); Astrophysics of Galaxies (astro-ph.GA); Solar and Stellar Astrophysics (astro-ph.SR)
- - **Arxiv link:** https://arxiv.org/abs/2409.13562
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13562
-
- - **Abstract**
- High-cadence surveys of the sky are revealing that a large fraction of red-supergiant (RSG) stars, which are progenitors of Type II-Plateau (II-P) supernovae (SNe), explode within circumstellar material (CSM). Such SNe II-P/CSM exhibit considerable diversity, with interaction signatures lasting from hours to days, potentially merging with the Type IIn subclass for which longer-duration interaction typically occurs. To tackle this growing sample of transients and to understand the pre-SN mass loss histories of RSGs, we train on the highest quality, spectropolarimetric observations of a young Type IIn SN taken to date: Those of SN1998S at ~5d after explosion. We design an approach based on a combination of radiation hydrodynamics with HERACLES and polarized radiative transfer with CMFGEN and LONG_POL. The adopted asymmetries are based on a latitudinal, depth- and time-independent, scaling of the density of 1D models of SNe II-P/CSM (e.g., model r1w6b with a `wind' mass-loss rate of 0.01Msun/yr used for SN2023ixf). For a pole-to-equator density ratio of five, we find that the polarization reaches, and then remains for days, at a maximum value of 1.0, 1.4, and 1.8% as the CSM extent is changed from 6, to 8 and 10x10^14cm. The polarization is independent of wavelength away from funnel-shaped depolarizations within emission lines. Our models implicate a significant depolarization at line cores, which we use to constrain the interstellar polarization of SN1998S. Our 2D, prolate ejecta models with moderate asymmetry match well the spectropolarimetric observations of SN1998S at 5d, supporting a polarization level of about ~2%. This study provides a framework for interpreting future spectropolarimetric observations of SNe II-P/CSM and SNe IIn and fostering a better understanding of the origin of their pre-SN mass loss.
-#### Binary Disruption and Ejected Stars from Hierarchical Star Cluster Assembly
- - **Authors:** Claude Cournoyer-Cloutier, Jeremy Karam, Alison Sills, Simon Portegies Zwart, Maite Wilhelm
- - **Subjects:** Subjects:
-Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2409.13564
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13564
-
- - **Abstract**
- We simulate mergers between star clusters embedded within their natal giant molecular cloud. We extract initial conditions from cloud-scale simulations of cluster formation and introduce different prescriptions for primordial binaries. We find that simulations that do not include primordial binaries result in a larger fraction of unbound stars than simulations which include a prescription for binaries based on observations. We also find a preferred direction of motion for stars that become unbound during the merger. Sub-cluster mergers within realistic gas environments promote binary disruption while mergers between idealized, gas-rich spherical clusters do not produce the same disruption. Binary systems with smaller semi-major axes are disrupted in simulations of sub-cluster mergers within their natal environment compared to simulations that do not include the realistic gas environment. We conclude that binary disruption and the production of an anisotropic distribution of unbound stars are the natural consequences of sub-cluster mergers during star cluster assembly.
-#### UVIT Study of the MAgellanic Clouds (U-SMAC) II. A Far-UV catalog of the Small Magellanic Cloud: Morphology and Kinematics of young stellar population
- - **Authors:** Sipra Hota, Annapurni Subramaniam, Prasanta K. Nayak, Smitha Subramanian
- - **Subjects:** Subjects:
-Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2409.13605
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13605
-
- - **Abstract**
- The Small Magellanic Cloud (SMC) is an irregular dwarf galaxy that has recently undergone an interaction with the Large Magellanic Cloud. The young massive stars in the SMC formed in the disturbed low-metallicity environment are important targets in astrophysics. We present a catalog of $\sim$ 76,800 far ultraviolet (FUV) sources towards the SMC detected using the Ultra Violet Imaging Telescope (UVIT) onboard AstroSat. We created an FUV catalog with $\sim$ 62900 probable SMC members which predominantly comprise main-sequence, giant, and subgiant stars. We selected 4 young populations (Young 1, Young 2, Young 3, and Blue Loop (BL) stars) identified from the Gaia optical color-magnitude diagram to study the morphology and kinematics of the young SMC using this catalog. We detect a clumpy morphology with a broken bar, a shell-like structure, and the inner SMC Wing for the 4 stellar populations. The eastern region and the northeastern regions are mainly populated by Young 1, 2, and 3. The central region predominantly has the Young 2 and 3 populations, whereas the SW has BL stars, Young 2 and 3. The 2-D kinematic study using proper motion (PM) reveals that Young 2 and 3 populations show two kinematically distinct sub-populations with low and high PM dispersion, whereas the Young 1 and BL stars show two kinematically distinct populations with low dispersion. Our analysis points to a kinematic disturbance along the RA direction for stars younger than $\sim$ 150 Myr located in the eastern region, with no significant disturbance along the Declination.
-#### Planet Mass and Metallicity: The Exoplanets and Solar System Connection
- - **Authors:** Mark R. Swain, Yasuhiro Hasegawa, Daniel P. Thorngren, Gael M. Roudier
- - **Subjects:** Subjects:
-Earth and Planetary Astrophysics (astro-ph.EP)
- - **Arxiv link:** https://arxiv.org/abs/2409.13651
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13651
-
- - **Abstract**
- Theoretical studies of giant planet formation suggest that substantial quantities of metals - elements heavier than hydrogen and helium - can be delivered by solid accretion during the envelope-assembly phase. This metal enhancement process is believed to diminish as a function of planet mass, leading to predictions for a mass-metallicity relationship. This picture is supported by the abundance of CH$_4$ in solar system giant planets, which is unaffected by condensation, unlike H$_2$O. However, all of the solar system giants exhibit some evidence for stratification of metals outside of their cores. In this context, two fundamental questions are whether metallicity of giant planets inferred from observations of the outer envelope layers represents their bulk metallicities, and if not, how are metals distributed within these planets. Comparing the mass-metallicity relationship inferred for solar system giants with various tracers of exoplanet metallicity has yielded a range of results. There is evidence of a solar-system-like mass-metallicity trend using bulk density estimates of exoplanets. However, transit-spectroscopy-based tracers of exoplanet metallicity, which probe only the outer layers of the envelope, are less clear about a mass-metallicity trend and radial composition gradients. The large number of known exoplanets enables statistical characterization. We develop a formalism for comparing both the metallicity inferred for the outer envelope and the metallicity inferred using the bulk density and show this combination may offer insights into metal stratification within planetary envelopes. Thus, future exoplanet observations with JWST and Ariel will be able to shed light on the conditions governing radial composition gradients in exoplanets and, perhaps, provide information about the factors controlling stratification and convection in our solar system gas giants.
-#### Learning from core-collapse supernova remnants on the explosion mechanism
- - **Authors:** Noam Soker (Technion, Israel)
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2409.13657
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13657
-
- - **Abstract**
- Based on the recently solidified notion that the jittering jets explosion mechanism (JJEM) is the primary explosion mechanism of core-collapse supernovae (CCSNe), I estimate some typical properties of the jittering jets. From the imprints of jittering jets in the outskirts of some CCSN remnants, I estimate the half-opening angles of jittering jets that shape CCSN remnants to be ~1-10 degrees. I also estimate that intermittent accretion disks around the newly born neutron star (NS) can launch jets after they live for only several times their orbital period around the NS. To operate, the JJEM requires the intermittent accretion disks that launch the jets to amplify the magnetic fields in a dynamo and the magnetic fields to reconnect to release their energy rapidly. I estimate the width of magnetic field reconnection zones to be ~0.005r~0.1km near the surface of the NS. This width requires a numerical resolution several times smaller than the resolution of present CCSN simulations. I argue, therefore, that existing simulations of the CCSN explosion mechanism are still far from correctly simulating CCSN explosions.
-#### Interstellar Glycolaldehyde, Methyl Formate, and Acetic Acid. II. Chemical Modeling of the Bimodal Abundance Pattern in NGC 6334I
- - **Authors:** Brielle M. Shope, Samer J. El-Abd, Crystal L. Brogan, Todd R. Hunter, Eric R. Willis, Brett A. McGuire, Robin T. Garrod
- - **Subjects:** Subjects:
-Astrophysics of Galaxies (astro-ph.GA); Solar and Stellar Astrophysics (astro-ph.SR)
- - **Arxiv link:** https://arxiv.org/abs/2409.13673
-
- - **Pdf link:** https://arxiv.org/pdf/2409.13673
-
- - **Abstract**
- Gas-phase abundance ratios between \ce{C2H4O2} isomers methyl formate (MF), glycolaldehyde (GA), and acetic acid (AA) are typically on the order of 100:10:1 in star-forming regions. However, an unexplained divergence from this neat relationship was recently observed towards a collection of sources in the massive protocluster NGC 6334I; some sources exhibited extreme MF:GA ratios, producing a bimodal behavior between different sources, while the MF:AA ratio remained stable. Here, we use a three-phase gas-grain hot-core chemical model to study the effects of a large parameter space on the simulated \ce{C2H4O2} abundances. A combination of high gas densities and long timescales during ice-mantle desorption ($\sim$125--160~K) appears to be the physical cause of the high MF:GA ratios. The main chemical mechanism for GA destruction occurring under these conditions is the rapid adsorption and reaction of atomic H with GA on the ice surfaces before it has time to desorb. The different binding energies of MF and GA on water ice are crucial to the selectivity of the surface destruction mechanism; individual MF molecules rapidly escape the surface when exposed by water loss, while GA lingers and is destroyed by H. Moderately elevated cosmic-ray ionization rates can increase absolute levels of COM production in the ices and increase the MF:GA ratio, but extreme values are destructive for gas-phase COMs. We speculate that the high densities required for extreme MF:GA ratios could be evidence of COM emission dominated by COMs desorbing within a circumstellar disk.
+ About 25\% -50\% of white dwarfs (WDs) are found to be polluted by heavy elements. It has been argued that the pollution could be caused by the tidal disruption of an approaching planet around the WD, during which a large number of clumps would be produced and would finally fall onto the WD. The reason that the planet approaches the WD is usually believed to be due to gravitational perturbations from another distant planet or stellar companion. However, the dynamics of the perturbation and the detailed partial disruption process are still poorly understood. In this study, we present an in-depth investigation of these issues. A triple system composed of a WD, an inner orbit planet, and an outer orbit planet is considered. The inner plant would be partially disrupted periodically in the long-term evolution. Fragments generated in the process are affected by the gravitational perturbations from the remnant planet, facilitating their falling toward the WD. The mass loss rate of the inner planet depends on both its internal structure and also on the orbital configuration of the planetary system.
 
 
 by olozhika (Xing Yuchen). 
