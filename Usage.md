@@ -5,7 +5,8 @@
 4. If your repository does not have a `.github/workflows/` folder and the `arxiv_daily.yml` file within it, create the folder yourself and copy the `arxiv_daily.yml` file from this repository into it.
 5. (Optional) Modify the `arxiv_daily.yml` file to set your preferred time for automated pushes.
 6. In your repository, go to Settings-Actions-General, and set "Allow all actions and reusable workflows".
-7. Now, your repository is set up for scheduled pushes! 
+7. In your repository, go to Actions, make sure workflows are allowed. 
+8. Now, your repository is set up for scheduled pushes! 
 
 # 如何使用
 1. fork本repository，或打包下载再新建repository重新上传也行 (打包重传的亲们请留个star或like，谢谢！)
@@ -14,7 +15,8 @@
 4. 如果你的repository此时并没有`.github/workflows/`文件夹及其中的`arxiv_daily.yml`，则自行创建此文件夹并把本repository的`arxiv_daily.yml`复制过去
 5. （可选）通过修改`arxiv_daily.yml` 更改自动推送时间为你喜欢的时间；需注意，由于Github actions需要排队触发，你repo的真实推送时间大概会比你定的时间晚20min
 6. 在你的repository的Settings-Actions-General里开启actions权限：Allow all actions and reusable workflows
-7. 现在你的repository可以定时推送了！
+7. 在你的repository的Actions里确认workflows已开启
+8. 现在你的repository可以定时推送了！
 
 'Star's and 'Like's are very welcomed!
 求三连！
