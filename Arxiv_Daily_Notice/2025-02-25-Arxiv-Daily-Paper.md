@@ -1,4 +1,4 @@
-# Showing new listings for Monday, 24 February 2025
+# Showing new listings for Tuesday, 25 February 2025
 Auto update Star Formation & Molecular Cloud papers at about 2:30am UTC (10:30am Beijing time) every weekday.
 
 
@@ -13,137 +13,147 @@ Keyword list: ['star formation', 'star-forming', 'molecular cloud', 'interstella
 Excluded: ['galaxies', 'galaxy cluster', ' AGN ']
 
 
-### Today: 13papers 
-#### Tension of toroidal magnetic field in reconnection plasmoids and relativistic jets
- - **Authors:** Krzysztof Nalewajko
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2502.14954
-
- - **Pdf link:** https://arxiv.org/pdf/2502.14954
-
- - **Abstract**
- Toroidal magnetic field is a key ingredient of relativistic jets launched by certain accreting astrophysical black holes, and of plasmoids emerging from the tearing instability during magnetic reconnection, a candidate dissipation mechanism in jets. Tension of toroidal field is an anisotropic force that can compress local energy and momentum densities. We investigate this effect in plasmoids produced during relativistic reconnection initiated from a Harris layer by means of kinetic particle-in-cell (PIC) numerical simulations, varying the system size (including 3D cases), magnetisation, or guide field. We find that: (1) plasmoid cores are dominated by plasma energy density for guide fields up to B_z ~ B_0; (2) relaxed 'monster' plasmoids compress plasma energy density only modestly (by factor ~3 above the initial level for drifting particle population); (3) energy density compressions by factors >~10 are achieved during plasmoid mergers, especially with the emergence of secondary plasmoids. This kinetic-scale effect can be combined with a global focusing of the jet Poynting flux along the quasi-cylindrical bunched spine (a proposed jet layer adjacent to the cylindrical core) due to poloidal line bunching (a prolonged effect of tension of the jet toroidal field) to enhance the luminosity of rapid radiation flares from blazars. The case of M87 as a misaligned blazar is discussed.
-#### A new mass estimate method with hydrodynamical atmospheres for very massive WNh stars
- - **Authors:** Gautham N. Sabhahit, Jorick S. Vink, Andreas A. C. Sander, Matheus Bernini-Peron, Paul A. Crowther, Roel R. Lefever, Tomer Shenar
- - **Subjects:** Subjects:
-Solar and Stellar Astrophysics (astro-ph.SR); Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2502.14957
-
- - **Pdf link:** https://arxiv.org/pdf/2502.14957
-
- - **Abstract**
- Very massive stars with masses over 100 Msun are key objects in the Universe for our understanding of chemical and energetic feedback in the Universe, but their evolution and fate are almost entirely determined by their wind mass loss. We aim to determine the mass of the most massive star known in the Local Group R136a1. For this we compute the first hydrodynamically consistent non-local thermodynamical equilibrium atmosphere models for both R136a1 (WN5h) as well as the binary system R144 (WN5/6h+WN6/7h) in the Tarantula nebula. Using the Potsdam Wolf-Rayet code, we simultaneously empirically derive and theoretically predict mass-loss rates and wind velocities. By fitting synthetic spectra derived from these models to multi-wavelength observations, we constrain the stellar and wind properties of R144 and R136a1. We first determine the clumping stratification required by our hydro-models to fit the spectra of R144 by using the available dynamical mass estimates for the two components. We then utilise this clumping stratification in hydrodynamic models of R136a1 and estimate a mass of $M_\mathrm{Hydro}$ of 233 Msun. Remarkably, the estimated mass is close to and entirely consistent with chemical homogeneous mass relations. This present-day mass of 233 Msun provides a lower limit to the initial stellar mass, that could be far higher due to previous wind mass loss.
-#### SOFIA/HAWC+ Far-Infrared Polarimetric Large Area CMZ Exploration Survey. V. The Magnetic Field Strength and Morphology in the Sagittarius C Complex
- - **Authors:** Roy J. Zhao, Mark R. Morris, David T. Chuss, Dylan M. Paré, Jordan A. Guerra, Natalie O. Butterfield, Edward J. Wollack, Kaitlyn Karpovich
+### Today: 14papers 
+#### Chemistry and ro-vibrational excitation of HeH$^+$ in the Planetary Nebula NGC 7027
+ - **Authors:** Milan Sil, Alexandre Faure, Helmut Wiesemeyer, Pierre Hily-Blant, Jérôme Loreau, K.D. Pérez, Roman Čurík, François Lique
  - **Subjects:** Subjects:
 Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2502.14961
+ - **Arxiv link:** https://arxiv.org/abs/2502.15943
 
- - **Pdf link:** https://arxiv.org/pdf/2502.14961
-
- - **Abstract**
- We present an analysis of the magnetic field strength and morphology in the Sagittarius C complex (Sgr C; G359.43-0.09) in the Milky Way Galaxy's Central Molecular Zone (CMZ) using the 214 $\mu$m polarimetry data acquired with the High-Angular-Resolution Wideband Camera+ (HAWC+) instrument aboard the Stratospheric Observatory for Infrared Astronomy (SOFIA). We use several hundred magnetic field pseudovectors in the Sgr C region to trace the projected magnetic field orientation within cold molecular gas clouds, and as is the trend throughout the CMZ, they show a higher polarization fraction toward the periphery of the clouds. We conduct a modified Davis-Chandrasekhar-Fermi (DCF) analysis of individual clouds and find that the sky-plane magnetic field strength varies from highly turbulent regions having inferred strengths of $\sim30~\mu{\rm G}$ to regions of relatively uniform field orientation having strengths of $\sim 1~{\rm mG}$. The magnetic field orientations suggest that outflows from active star-forming regions, such as the extended green object (EGO) G359.43-0.10 and the protostellar source FIR-4 (G359.43+0.02), cause high turbulence in their vicinity. The magnetic field direction is found to be tangential to the surface of the Sgr C HII region, as well as two [CII] emission cavities around this region. Several other features in the vicinity of Sgr C, especially numerous non-thermal filaments (NTFs) and a diffuse source of X-ray emission towards the southwest of the \hii{} region, are discussed with regard to the observed magnetic field pseudovectors.
-#### A Universal Analytic Model for Gravitational Lensing by Self-Interacting Dark Matter Halos
- - **Authors:** Siyuan Hou, Daneng Yang, Nan Li, Guoliang Li
- - **Subjects:** Subjects:
-Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2502.14964
-
- - **Pdf link:** https://arxiv.org/pdf/2502.14964
+ - **Pdf link:** https://arxiv.org/pdf/2502.15943
 
  - **Abstract**
- We present a model for analytically calculating gravitational lensing by self-interacting dark matter (SIDM) halos. Leveraging the universal behavior of SIDM halos during gravothermal evolution, we calibrate the lensing potential using a fluid simulation, normalizing the evolution time to align with established scenarios. From this potential, we derive explicit equations for the deflection angle and surface density profile, quantifying their deviations from numerical results. Our model builds on the parametric approach of arXiv:2305.16176, providing refinements in the deep core-collapse regime and enabling more comprehensive lensing studies. We explore characteristic lensing features, including critical curves and caustics, for SIDM halos in isolation and within a main halo, tracking their evolution through the gravothermal phase. We also examine signatures in the self-similar regime of core collapsed halos and highlight the role of baryonic effects in realistic halos. The efficiency of our model enables large-scale lensing studies, and we make our implementation publicly available on GitHub to support further research.
-#### The Life and Times of Star-Forming Cores: an Analysis of Dense Gas in the STARFORGE Simulations
- - **Authors:** Stella S. R. Offner, Josh Taylor, Michael Y. Grudic
+ HeH$^+$ belongs to the class of "reactive" ions that can be destroyed so quickly that chemical formation and destruction rates may compete with inelastic rates and should be considered when solving the statistical equilibrium equations. This so-called chemical "pumping" or "excitation" effect is investigated here for the first time in HeH$^+$. The chemical evolution of HeH$^+$ in NGC 7027 is modeled with the CLOUDY photoionization code using updated reaction rate coefficients. The non-LTE analysis of the three observed HeH$^+$ emission lines is then performed with the CLOUDY and RADEX codes using an extensive set of spectroscopic and inelastic collisional data suitable for the specific high-temperature environment of NGC 7027. In a second approach, chemical formation and destruction rates of HeH$^+$ are implemented in RADEX. This code is combined with MCMC sampling (performed on the RADEX-parameters space) to extract the best-fit HeH$^+$ column density and physical conditions from the observed line fluxes. The CLOUDY and RADEX non-LTE results are found to be in good agreement, and the $\upsilon=1-0 \ P(2)/P(1)$ line ratio is better than 20%. Agreement to better than a factor of 2.3 is obtained when including the reaction between He($2^3S$) and H as an additional source of HeH$^+$. The RADEX/MCMC model with chemical pumping is found to reproduce both the observed line fluxes and the line ratio to 20%. Our results suggest that additional HeH$^+$ lines must be detected in NGC 7027 to better constrain the physical conditions via non-LTE models. Uncertainties in collisional (reactive and inelastic) data of HeH$^+$ have been largely reduced in this work. The three observed lines are not sensitive to chemical pumping while excited "short-lived" levels are significantly overpopulated with respect to a non-LTE model neglecting chemical excitation.
+#### Multiple stellar populations at less evolved stages. IV. evidence of helium enrichments in four Magellanic globular clusters
+ - **Authors:** Chengyuan Li, Li Wang, Xin Ji, Holger Baumgardt
  - **Subjects:** Subjects:
 Astrophysics of Galaxies (astro-ph.GA); Solar and Stellar Astrophysics (astro-ph.SR)
- - **Arxiv link:** https://arxiv.org/abs/2502.15057
+ - **Arxiv link:** https://arxiv.org/abs/2502.16050
 
- - **Pdf link:** https://arxiv.org/pdf/2502.15057
+ - **Pdf link:** https://arxiv.org/pdf/2502.16050
 
  - **Abstract**
- Dense gas in molecular clouds is an important signature of ongoing and future star formation. We identify and track dense cores in the STARFORGE simulations, following the core evolution from birth through dispersal by stellar feedback for typical Milky Way cloud conditions. Only $\sim$8% of cores host protostars, and most disperse before forming stars. The median starless and protostellar core lifetimes are $\sim 0.5-0.6$ Myr and $\sim0.8-1.1$ Myr, respectively, where the protostellar phase lasts $\sim 0.1^{+0.1}_{-0.05}$ Myr. While core evolution is stochastic, we find that virial ratios and linewidths decline in prestellar cores, coincident with turbulent decay. Collapse occurs over $\sim 0.1$ Myr, once the central density exceeds $\gtrsim 10^6$cm$^{-3}$. Starless cores, only, follow linewidth-size and mass-size relations, $\sigma \propto R^{0.3}$ and $M \propto R^1$. The core median mass, radius, and velocity dispersion scale weakly with the cloud magnetic field strength. We cluster the core properties and find that protostellar cores have $>80$% likelihood of belonging to three particular groups that are characterized by high central densities, compact radii, and lower virial parameters. Overall, core evolution appears to be universally set by the interplay of gravity and magnetized turbulence, while stellar feedback dictates protostellar core properties and sets the protostellar phase lifetime.
-#### Gas infall via accretion disk feeding Cepheus A HW2
- - **Authors:** A. Sanna, A. Oliva, L. Moscadelli, C. Carrasco-González, A. Giannetti, G. Sabatini, M. Beltrán, C. Brogan, T. Hunter, J.M. Torrelles, A. Rodríguez-Kamenetzky, A. Caratti o Garatti, R. Kuiper
+ Most globular clusters in the local group show multiple stellar populations, a pattern defined by variations of several light elements, with some also displaying dispersions in heavy elements. Since helium is the most immediate product of hydrogen burning, almost all models suggest that second-generation stars should show different levels of helium enrichment than first-generation stars. Therefore, investigating helium enrichment in stellar populations of globular clusters can constrain different theoretical models. Using the deep photometry carried out by the {\sl Hubble} Space Telescope, we have analyzed the morphologies of the main sequences of four Large Magellanic Cloud globular clusters, Hodge 11, NGC 1841, NGC 2210, and NGC 2257. We aim to constrain the helium distributions among their main sequence stars. We found a clear broadening of main sequences in all four clusters. After excluding the effects of photometric errors, differential reddening, unresolved binaries, and metallicity dispersions, this broadening would suggest a substantial helium enrichment in their star populations, ranging from $\delta{Y}=0.08$ to $\delta{Y}\geq0.12$, depending on the presumed helium distributions. Helium-enriched stars are comparable in number to normal stars within these clusters, and may even dominate, comprising approximately $\sim$40\% to over 80\% of the total stellar population. However, given the great distance of the Large Magellanic Cloud, it is difficult to rule out the significant impact of crowding, so our results may only represent an upper limit.
+#### TOI-6324b: An Earth-Mass Ultra-Short-Period Planet Transiting a Nearby M Dwarf
+ - **Authors:** Rena A. Lee, Fei Dai, Andrew W. Howard, Samuel Halverson, Jonathan Gomez Barrientos, Michael Greklek-McKeon, Heather A. Knutson, Benjamin J. Fulton, Guðmundur Stefánsson, Jack Lubin, Howard Isaacson, Casey L. Brinkman, Nicholas Saunders, Daniel Hey, Daniel Huber, Lauren M. Weiss, Leslie A. Rogers, Diana Valencia, Mykhaylo Plotnykov, Kimberly Paragas, Renyu Hu, Te Han, Erik A. Petigura, Ryan Rubenzahl, David R. Ciardi, Aaron Householder, Gregory J. Gilbert, J. M. Joel Ong, Jingwen Zhang, Jacob Luhn, Luke Handley, Corey Beard, Steven Giacalone, Rae Holcomb, Judah Van Zandt, Ashley D. Baker, Max Brodheim, Matt Brown, David Charbonneau, Karen A. Collins, Ian J. M. Crossfield, William Deich, Xavier Dumusque, Steven R. Gibson, Emily Gilbert, Grant M. Hill, Bradford Holden, Jon M. Jenkins, Stephen Kaye, Russ R. Laher, Kyle Lanclos, Joel Payne, Alex S. Polanski, John O'Meara, George R. Ricker, Kodi Rider, Paul Robertson, Arpita Roy, Joshua E. Schlieder, Christian Schwab, Sara Seager, Abby P. Shaum, Martin M. Sirk, Stephanie Striegel, Johanna Teske, John Valliant, Roland Vanderspek, Gautam Vasisht, Josh Walawender, Sharon Xuesong Wang, Joshua N. Winn, Edward Wishnow, Sherry Yeh
  - **Subjects:** Subjects:
-Solar and Stellar Astrophysics (astro-ph.SR); Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2502.15070
+Earth and Planetary Astrophysics (astro-ph.EP)
+ - **Arxiv link:** https://arxiv.org/abs/2502.16087
 
- - **Pdf link:** https://arxiv.org/pdf/2502.15070
+ - **Pdf link:** https://arxiv.org/pdf/2502.16087
 
  - **Abstract**
- The star-forming region Cepheus A hosts a very young star, called HW2, that is the second closest to us growing a dozen times more massive than our Sun. The circumstellar environment surrounding HW2 has long been the subject of much debate about the presence or not of an accretion disk, whose existence is at the basis of our current paradigm of star formation. Here, we answer this long standing question by resolving the gaseous disk component, and its kinematics, through sensitive observations at cm wavelengths of hot ammonia (NH$_3$) with the Jansky Very Large Array. We map the accretion disk surrounding HW2 at radii between 200 and 700 au, showing how fast circumstellar gas collapses and slowly orbits to pile up near the young star at very high rates of $2\times10^{-3}$ M$_{\odot}$ yr$^{-1}$. These results, corroborated by state-of-the-art simulations, show that an accretion disk is still efficient in focusing huge mass infall rates near the young star, even when this star has already reached a large mass of 16 M$_{\odot}$.
-#### Multi-Wavelength characterization of VVVX open clusters
- - **Authors:** C.O. Obasi, E. R. Garro, J.G. Fernández-Trincado, D. Minniti, M. Gómez, M. C. Parisi, M. Ortigoza-Urdaneta
+ We report the confirmation of TOI-6324 b, an Earth-sized (1.059 $\pm$ 0.041 R$_\oplus$) ultra-short-period (USP) planet orbiting a nearby ($\sim$20 pc) M dwarf. Using the newly commissioned Keck Planet Finder (KPF) spectrograph, we have measured the mass of TOI-6324 b 1.17 $\pm$ 0.22 M$_\oplus$. Because of its extremely short orbit of just $\sim$6.7 hours, TOI-6324 b is intensely irradiated by its M dwarf host, and is expected to be stripped of any thick, H/He envelope. We were able to constrain its interior composition and found an iron core mass fraction (CMF = 27$\pm$37%) consistent with that of Earth ($\sim$33%) and other confirmed USPs. TOI-6324 b is the closest to Earth-sized USP confirmed to date. TOI-6324 b is a promising target for JWST phase curve and secondary eclipse observations (Emission Spectroscopy Metric = 25) which may reveal its surface mineralogy, day-night temperature contrast, and possible tidal deformation. From 7 sectors of TESS data, we report a tentative detection of the optical phase curve variation with an amplitude of 42$\pm$28 ppm.
+#### New asteroid clusters and evidence of collisional fragmentation in the L5 Trojan cloud of Mars
+ - **Authors:** Apostolos A. Christou, Nikos Georgakarakos, Matija Cuk, Aldo Dell'Oro, Andrew Marshall-Lee, Alice Humpage
  - **Subjects:** Subjects:
-Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2502.15114
+Earth and Planetary Astrophysics (astro-ph.EP)
+ - **Arxiv link:** https://arxiv.org/abs/2502.16231
 
- - **Pdf link:** https://arxiv.org/pdf/2502.15114
+ - **Pdf link:** https://arxiv.org/pdf/2502.16231
 
  - **Abstract**
- Context. Large-scale surveys across wavelengths, aided by machine learning, have improved the detection of old open clusters in high-extinction Milky Way regions. Aims. We aim to confirm or reject automatically detected open clusters in poorly studied, contaminated regions, refining samples for Galactic disk formation studies. Methods. Using VVVX, 2MASS, and Gaia DR3, we analyzed nine cluster candidates: BH118, BH144, Schuster-MWSC 1756, Saurer 3, FSR 1521, Saurer 2, Haffner 10-FSR 1231, Juchert 12, and Pismis 3. We examined density maps, proper motion diagrams, and photometry to derive physical parameters. Results. We identified star clusters via overdensities in 2MASS, WISE, and DECaPS, confirmed with VVVX and Gaussian Kernel Density Estimation. Using Gaia proper motions, we refined memberships, building a high-likelihood cluster catalog. We derived extinction ($A_{Ks} = 0.07$-$0.50$), color excess ($E(J-Ks) = 0.16$-$0.60$), distances ($D = 2.06$-$8.64$ kpc), and Galactocentric distances ($R_G = 7.69$-$14.81$ kpc). Ages range from 20 Myr to 5 Gyr, metallicity from [Fe/H] = -0.5 to 0.5. Structural parameters include core radii ($r_c = 0.71'$-$5.21'$) and tidal radii ($r_t = 3.4'$-$12.0'$). Conclusions. We confirm the open cluster nature of nine targets, updating their physical parameters.
-#### A Critical Examination of the Nested Leaky Box Model for Galactic Cosmic Ray Transport
- - **Authors:** Benedikt Schroer, Carmelo Evoli, Pasquale Blasi
+ Context. Trojan asteroids of Mars date from an early phase of solar system evolution. Based on a sample of <10 asteroids, MT distribution has been previously shown to be both asymmetric and inhomogeneous with population evolution dominated by thermal radiation forces acting over timescales of Gyr. Remarkably, a single asteroid family associated with (5261) Eureka (H~16) at L5 contains most MTs and all members of the stable population fainter than H=18. Aims. Using the currently available sample of MTs and their orbits, we take a fresh look at this population to re-evaluate these earlier conclusions and to search for additional features diagnostic of the evolutionary history of MTs and the Eureka family in particular. Methods. We perform harmonic analysis on numerical time series of the osculating elements to compile a new proper element catalogue comprising 16 L5 and 1 L4 Mars Trojan asteroids. We then combine sample variance analysis with statistical hypothesis testing to identify clusters in the distribution of orbits and assess their significance. Results. We identify two small clusterings significant at 95% confidence of three H=20-21 asteroids each and investigate their likely origin. One of the clusters is probably the result of rotational breakup of a Eureka family asteroid ~10^8 yr ago. The significantly higher tadpole libration width of asteroids in the other cluster is more consistent with an origin as impact ejecta from Eureka itself and on a timescale comparable to the ~1 Gyr age of its family. We further confirm the previously reported correlations in Eureka family orbital distribution attributed to the long-term action of radiation-driven forces and torques on the asteroids.
+#### Free-floating planetary mass objects in LDN 1495 from Euclid Early Release Observations
+ - **Authors:** H. Bouy, E. L. Martín, J.-C. Cuillandre, D. Barrado, M. Tamura, E. Bertin, M. Žerjal, S. Points, J. Olivares, N. Huélamo, T. Rodrigues
  - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2502.15115
+Solar and Stellar Astrophysics (astro-ph.SR); Earth and Planetary Astrophysics (astro-ph.EP); Astrophysics of Galaxies (astro-ph.GA)
+ - **Arxiv link:** https://arxiv.org/abs/2502.16349
 
- - **Pdf link:** https://arxiv.org/pdf/2502.15115
+ - **Pdf link:** https://arxiv.org/pdf/2502.16349
 
  - **Abstract**
- We revisit the predictions of the nested leaky box model in detail, in terms of both primary cosmic-ray spectra, spectra of stable and unstable nuclei and antimatter production (positrons and antiprotons). We conclude that the model is in direct conflict with several observational facts and at least in its vanilla version should be considered as ruled out by current data. We also speculate on some possibly interesting implications of the idea that at least a fraction of Galactic grammage may not be accumulated in the journey of cosmic rays in the interstellar medium but rather inside the sources or in regions around them. These speculations will become increasingly more relevant with the higher precision data becoming available at high energies.
-#### Machine Learning in Stellar Astronomy: Progress up to 2024
- - **Authors:** Guangping Li, Zujia Lu, Junzhi Wang, Zhao Wang
+ Context. Substellar objects, including brown dwarfs and free-floating planetary-mass objects, are a significant product of star formation. Their sensitivity to initial conditions and early dynamical evolution makes them especially valuable for studying both planetary and stellar formation processes. Aims. We search for brown dwarfs and isolated planetary mass objects in a young star forming region to better constrain their formation mechanisms. Methods. We take advantage of Euclid unprecedented sensitivity, spatial resolution and wide-field of view to search for brown dwarfs and free-floating planetary mass objects in the LDN 1495 region of the Taurus molecular clouds. We combine the recent Euclid Early Release Observations with older very deep ground-based images obtained over more than 20 yr to derive proper motions and multi-wavelength photometry, and select members based on their morphology and their position in a proper motion diagram and in 9 color-magnitude diagrams. Results. We identify 15 point sources with proper motions, colors, and luminosity consistent with being members of LDN 1495. Six of these objects were already known M9-L1 members. The remaining nine are newly identified sources that could have spectral types ranging from late-M to early-T with masses potentially as low as 1-2 MJup based on their luminosity and according to evolutionary models. However, follow-up observations are needed to confirm their nature, spectral type and membership. If extrapolated to theentire Taurus star forming region, this result suggests the potential presence of several dozen free-floating planetary mass objects.
+#### The Solar System's passage through the Radcliffe wave during the middle Miocene
+ - **Authors:** E. Maconi, J. Alves, C. Swiggum, S. Ratzenböck, J. Großschedl, P. Köhler, N. Miret-Roig, S. Meingast, R. Konietzka, C. Zucker, A. Goodman, M. Lombardi, G. Knorr, G. Lohmann, J. C. Forbes, A. Burkert, M. Opher
  - **Subjects:** Subjects:
-Solar and Stellar Astrophysics (astro-ph.SR); Astrophysics of Galaxies (astro-ph.GA); Instrumentation and Methods for Astrophysics (astro-ph.IM)
- - **Arxiv link:** https://arxiv.org/abs/2502.15300
+Astrophysics of Galaxies (astro-ph.GA); Earth and Planetary Astrophysics (astro-ph.EP)
+ - **Arxiv link:** https://arxiv.org/abs/2502.16360
 
- - **Pdf link:** https://arxiv.org/pdf/2502.15300
-
- - **Abstract**
- Machine learning (ML) has become a key tool in astronomy, driving advancements in the analysis and interpretation of complex datasets from observations. This article reviews the application of ML techniques in the identification and classification of stellar objects, alongside the inference of their key astrophysical properties. We highlight the role of both supervised and unsupervised ML algorithms, particularly deep learning models, in classifying stars and enhancing our understanding of essential stellar parameters, such as mass, age, and chemical composition. We discuss ML applications in the study of various stellar objects, including binaries, supernovae, dwarfs, young stellar objects, variables, metal-poor, and chemically peculiar stars. Additionally, we examine the role of ML in investigating star-related interstellar medium objects, such as protoplanetary disks, planetary nebulae, cold neutral medium, feedback bubbles, and molecular clouds.
-#### Discovery of a Pulsar Wind Nebula Candidate Associated with the Galactic PeVatron 1LHAASO J0343+5254u
- - **Authors:** Stephen DiKerby, Shuo Zhang, Tulun Ergin, Naomi Tsuji, Kaya Mori, Fabio Acero, Samar Safi-Harb, Shunya Takekawa, Jooyun Woo
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2502.15431
-
- - **Pdf link:** https://arxiv.org/pdf/2502.15431
+ - **Pdf link:** https://arxiv.org/pdf/2502.16360
 
  - **Abstract**
- The astronomical origin of the most energetic galactic cosmic rays and gamma rays is still uncertain. X-ray followup of candidate "PeVatrons", systems producing cosmic rays with energies exceeding 1 PeV, can constrain their spatial origin, identify likely counterparts, and test particle emission models. Using 120 ks of XMM-Newton observations, we report the discovery of a candidate pulsar wind nebula, a possible counterpart for the LHAASO PeVatron J0343+5254u. This extended source has a power law X-ray spectrum with spectral index of 1.9 - softer at greater distance from the center - and asymmetric spatial extension out to 2'. We conduct leptonic modeling of the X-ray and gamma ray radiation from this complex system, showing that a fully leptonic model with elevated IR photon fields can explain the multiwavelength emission from this source, similar to other VHE pulsar wind nebulae; excess gamma ray emissivity not explained by a leptonic model may be due to hadronic interactions in nearby molecular cloud regions, which might also produce detectable astroparticle flux.
-#### Detection of molecular clouds in the PeVatron candidate source LHAASO J0341$+$5258 by the Nobeyama 45-m radio telescope
- - **Authors:** Naomi Tsuji, Shunya Takekawa, Kaya Mori, Alison Mitchell, Shuo Zhang, Priyadarshini Bangale, Stephen DiKerby, Tülün Ergin, Jooyun Woo, Samar Safi-Harb, Shinta Kausya
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2502.15432
-
- - **Pdf link:** https://arxiv.org/pdf/2502.15432
-
- - **Abstract**
- We report a new CO observation survey of LHAASO J0341$+$5258 using the Nobeyama Radio Observatory (NRO) 45-m telescope. LHAASO J0341$+$5258 is one of the unidentified ultra-high-energy (UHE; E $>$100 TeV) gamma-ray sources detected by LHAASO. Our CO observations were conducted in February and March 2024, with a total observation time of 36 hours, covering the LHAASO source ($\sim$0.3-0.5 degrees in radius) and its surrounding area (1$\times$1.5 degrees). Within the LHAASO source extent, we identified five compact ($<$ 2 pc) molecular clouds at nearby distances ($<$ 1-4 kpc). These clouds can serve as proton-proton collision targets, producing hadronic gamma rays via neutral pion decays. Based on the hydrogen densities (700-5000 cm$^{-3}$) estimated from our CO observations and archived HI data from the DRAO survey, we derived the total proton energy of $W_p$ (E $>$ 1 TeV) $\sim$ 10$^{45}$ erg to account for the gamma-ray flux. One of the molecular clouds appears to be likely associated with an asymptotic giant branch (AGB) star with an extended CO tail, which may indicate some particle acceleration activities. However, the estimated maximum particle energy below 100 TeV makes the AGB-like star unlikely to be a PeVatron site. We conclude that the UHE emission observed in LHAASO J0341$+$5258 could be due to hadronic interactions between the newly discovered molecular clouds and TeV-PeV protons originating from a distant SNR or due to leptonic emission from a pulsar wind nebula candidate, which is reported in our companion X-ray observation paper (DiKerby et al. 2025).
-#### Measurement of the Forward Shock Velocities of the Supernova Remnant N132D Based on the Thermal X-ray Emission
- - **Authors:** Yoshizumi Okada, Yuken Ohshiro, Shunsuke Suzuki, Hiromasa Suzuki, Paul P. Plucinsky, Ryo Yamazaki, Hiroya Yamaguchi
- - **Subjects:** Subjects:
-High Energy Astrophysical Phenomena (astro-ph.HE)
- - **Arxiv link:** https://arxiv.org/abs/2502.15479
-
- - **Pdf link:** https://arxiv.org/pdf/2502.15479
-
- - **Abstract**
- Measuring shock velocities is crucial for understanding the energy transfer processes at the shock fronts of supernova remnants (SNRs), including acceleration of cosmic rays. Here we present shock velocity measurements on the SNR N132D, based on the thermal properties of the shock-heated interstellar medium. We apply a self-consistent model developed in our previous work to X-ray data from deep Chandra observations with an effective exposure of $\sim$ 900 ks. In our model, both temperature and ionization relaxation processes in post-shock plasmas are simultaneously calculated, so that we can trace back to the initial condition of the shock-heated plasma to constrain the shock velocity. We reveal that the shock velocity ranges from 800 to 1500 $\rm{km~s^{-1}}$ with moderate azimuthal dependence. Although our measurement is consistent with the velocity determined by independent proper motion measurements in the south rim regions, a large discrepancy between the two measurements (up to a factor of 4) is found in the north rim regions. This implies that a substantial amount of the kinetic energy has been transferred to the nonthermal component through highly efficient particle acceleration. Our results are qualitatively consistent with the $\gamma$-ray observations of this SNR.
-#### The SARAO MeerKAT Galactic Plane Survey extended source catalogue
- - **Authors:** C. Bordiu, S. Riggi, F. Bufano, F. Cavallaro, T. Cecconello, F. Camilo, G.Umana, W.D. Cotton, M.A. Thompson, M. Bietenholz, S. Goedhart, L.D. Anderson, C.S. Buemi, J.O. Chibueze, A. Ingallinera, P. Leto, S. Loru, M. Mutale, A. Rigby, C. Trigilio, G.M. Williams
+ Context. As the Solar System orbits the Milky Way, it encounters various Galactic environments, including dense regions of the interstellar medium (ISM). These encounters can compress the heliosphere, exposing parts of the Solar System to the ISM, while also increasing the influx of interstellar dust into the Solar System and Earth's atmosphere. The discovery of new Galactic structures, such as the Radcliffe wave, raises the question of whether the Sun has encountered any of them. Aims. The present study investigates the potential passage of the Solar System through the Radcliffe wave gas structure over the past 30 million years (Myr). Methods. We used a sample of 56 high-quality, young ($\leq$ 30 Myr) open clusters associated with a region of interest of the Radcliffe wave to trace its motion back and investigate a potential crossing with the Solar System's past orbit. Results. We find that the Solar System's trajectory intersected the Radcliffe wave in the Orion region. We have constrained the timing of this event to between 18.2 and 11.5 Myr ago, with the closest approach occurring between 14.8 and 12.4 Myr ago. Notably, this period coincides with the Middle Miocene climate transition on Earth, providing an interdisciplinary link with paleoclimatology. The potential impact of the crossing of the Radcliffe wave on the climate on Earth is estimated. This crossing could also lead to anomalies in radionuclide abundances, which is an important research topic in the field of geology and nuclear astrophysics.
+#### Dense Cores in IRDC G14.225-0.506 revealed by ALMA Observations
+ - **Authors:** Yanhanle Zhao, Qizhou Zhang, Junhao Liu, Xing Pan, Lingzhen Zeng
  - **Subjects:** Subjects:
 Astrophysics of Galaxies (astro-ph.GA)
- - **Arxiv link:** https://arxiv.org/abs/2502.15640
+ - **Arxiv link:** https://arxiv.org/abs/2502.16413
 
- - **Pdf link:** https://arxiv.org/pdf/2502.15640
+ - **Pdf link:** https://arxiv.org/pdf/2502.16413
 
  - **Abstract**
- We present a catalogue of extended radio sources from the SARAO MeerKAT Galactic Plane Survey (SMGPS). Compiled from 56 survey tiles and covering approximately 500 deg$^2$ across the first, third, and fourth Galactic quadrants, the catalogue includes 16534 extended and diffuse sources with areas larger than 5 synthesised beams. Of them, 3891 (24\% of the total) are confidently associated with known Galactic radio-emitting objects in the literature, such as HII regions, supernova remnants, planetary nebulae, luminous blue variables, and Wolf-Rayet stars. A significant fraction of the remaining sources, 5462 (33\%), are candidate extragalactic sources, while 7181 (43\%) remain unclassified. Isolated radio filaments are excluded from the catalogue. The diversity of extended sources underscores MeerKAT's contribution to the completeness of censuses of Galactic radio emitters, and its potential for new scientific discoveries. For the catalogued sources, we derived basic positional and morphological parameters, as well as flux density estimates, using standard aperture photometry. This paper describes the methods followed to generate the catalogue from the original SMGPS tiles, detailing the source extraction, characterisation, and crossmatching procedures. Additionally, we analyse the statistical properties of the catalogued populations
+ Dense cores in massive, parsec-scale molecular clumps are sites that harbor protocluster formation. We present results from observations towards a hub-filament structure of a massive Infrared Dark Cloud (IRDC) G14.225-0.506 using the Atacama Large Millimeter/submillimeter Array (ALMA). The dense cores are revealed by the 1.3 mm dust continuum emission at an angular resolution of $\sim$ 1.5'' and are identified through the hierarchical Dendrogram technique. Combining with the N$_2$D$^+$ 3-2 spectral line emission and gas temperatures derived from a previous NH$_3$ study, we analyze the thermodynamic properties of the dense cores. The results show transonic and supersonic-dominated turbulent motions. There is an inverse correlation between the virial parameter and the column density, which implies that denser regions may undergo stronger gravitational collapse. Molecular outflows are identified in the CO 2-1 and SiO 5-4 emission, indicating active protostellar activities in some cores. Besides these star formation signatures revealed by molecular outflows in the dense cores, previous studies in the infrared, X-ray, and radio wavelengths also found a rich and wide-spread population of young stellar objects (YSOs), showing active star formation both inside and outside of the dense cloud.
+#### Asteroid shape inversion with light curves using deep learning
+ - **Authors:** YiJun Tang, ChenChen Ying, ChengZhe Xia, XiaoMing Zhang, XiaoJun Jiang
+ - **Subjects:** Subjects:
+Earth and Planetary Astrophysics (astro-ph.EP); Instrumentation and Methods for Astrophysics (astro-ph.IM)
+ - **Arxiv link:** https://arxiv.org/abs/2502.16455
+
+ - **Pdf link:** https://arxiv.org/pdf/2502.16455
+
+ - **Abstract**
+ Asteroid shape inversion using photometric data has been a key area of study in planetary science and astronomical this http URL, the current methods for asteroid shape inversion require extensive iterative calculations, making the process time-consuming and prone to becoming stuck in local optima. We directly established a mapping between photometric data and shape distribution through deep neural networks. In addition, we used 3D point clouds to represent asteroid shapes and utilized the deviation between the light curves of non-convex asteroids and their convex hulls to predict the concave areas of non-convex asteroids. We compared the results of different shape models using the Chamfer distance between traditional methods and ours and found that our method performs better, especially when handling special shapes. For the detection of concave areas on the convex hull, the intersection over union (IoU) of our predictions reached 0.89. We further validated this method using observational data from the Lowell Observatory to predict the convex shapes of the asteroids 3337 Milo and 1289 Kuta, and conducted light curve fitting experiments. The experimental results demonstrated the robustness and adaptability of the method
+#### The extreme starburst J1044+0353 blows kpc-scale bubbles
+ - **Authors:** E.C. Herenz, H. Kuskabe, S. Maulick
+ - **Subjects:** Subjects:
+Astrophysics of Galaxies (astro-ph.GA)
+ - **Arxiv link:** https://arxiv.org/abs/2502.16969
+
+ - **Pdf link:** https://arxiv.org/pdf/2502.16969
+
+ - **Abstract**
+ We report the discovery of a kpc-scale lacy filamentary structure in low surface-brightness H$\alpha$ and [OIII]$\lambda5007$ emission around the low-redshift, extremely metal-poor, and compact reionisation-era analogue SDSS J1044+0535. We identify seven elliptical arcs in H$\alpha$ emission at $\mathrm{SB}_\mathrm{H\alpha} \sim 1 - 2 \times 10^{-18}$erg\,s$^{-1}$cm$^{-2}$arcsec$^{-2}$. These arcs extent 6-9 kpc outwards from the star-forming complexes. We interpret these features as limb-brightened giant-shells that bound egg-shaped kpc-scale bubbles. These shells are five to eight times larger than the known giant-shells around nearby star-forming dwarfs. Kinematic maps reveal a gradient perpendicular to the major-axis and line broadening in the outskirts. The latter, when interpreted due to line-splitting of the expanding shells, provides an estimate of the kinetic energy of the bubbles that can be well reconciled with them being blown by the mass dominating 15-20 Myr old stellar population.
+#### Conditional Diffusion-Flow models for generating 3D cosmic density fields: applications to f(R) cosmologies
+ - **Authors:** Julieth Katherine Riveros, Paola Saavedra, Hector J. Hortua, Jorge Enrique Garcia-Farieta, Ivan Olier
+ - **Subjects:** Subjects:
+Cosmology and Nongalactic Astrophysics (astro-ph.CO); Artificial Intelligence (cs.AI)
+ - **Arxiv link:** https://arxiv.org/abs/2502.17087
+
+ - **Pdf link:** https://arxiv.org/pdf/2502.17087
+
+ - **Abstract**
+ Next-generation galaxy surveys promise unprecedented precision in testing gravity at cosmological scales. However, realising this potential requires accurately modelling the non-linear cosmic web. We address this challenge by exploring conditional generative modelling to create 3D dark matter density fields via score-based (diffusion) and flow-based methods. Our results demonstrate the power of diffusion models to accurately reproduce the matter power spectra and bispectra, even for unseen configurations. They also offer a significant speed-up with slightly reduced accuracy, when flow-based reconstructing the probability distribution function, but they struggle with higher-order statistics. To improve conditional generation, we introduce a novel multi-output model to develop feature representations of the cosmological parameters. Our findings offer a powerful tool for exploring deviations from standard gravity, combining high precision with reduced computational cost, thus paving the way for more comprehensive and efficient cosmological analyses
+#### Accretion bursts in young intermediate-mass stars make planet formation challenging
+ - **Authors:** Indrani Das, Eduard Vorobyov, Shantanu Basu
+ - **Subjects:** Subjects:
+Earth and Planetary Astrophysics (astro-ph.EP); Astrophysics of Galaxies (astro-ph.GA); High Energy Astrophysical Phenomena (astro-ph.HE); Solar and Stellar Astrophysics (astro-ph.SR)
+ - **Arxiv link:** https://arxiv.org/abs/2502.17114
+
+ - **Pdf link:** https://arxiv.org/pdf/2502.17114
+
+ - **Abstract**
+ We investigate the occurrence of accretion bursts, dust accumulation, and the prospects for planetesimal formation in a gravitationally unstable magnetized protoplanetary disk with globally suppressed but episodically triggered magnetorotational instability (MRI), particularly in young intermediate-mass stars (YIMSs) but with a brief comparison to low-mass counterparts. We use numerical magnetohydrodynamics simulations in the thin-disk limit (FEOSAD code) to model the formation and long-term evolution of a gravitationally unstable magnetized protoplanetary disk, including dust dynamics and growth, since the collapse of a massive slowly-rotating prestellar cloud core. Massive gas concentrations and dust rings form within the inner disk region owing to the radially varying efficiency of mass transport by gravitational instability (GI). These rings are initially susceptible to streaming instability (SI). However, gradual warming of the dust rings, thanks to high opacity and GI-induced influx of matter increases the gas temperature above a threshold for the MRI to develop via thermal ionization of alkaline metals. The ensuing MRI bursts destroy the dust rings, making planetesimal formation via SI problematic. In the later evolution phase, when the burst activity starts to diminish, SI becomes inefficient because of growing dust drift velocity and more extended inner dead zone, both acting to reduce the dust concentration below the threshold for SI to develop. Low-mass objects appear to be less affected by these adverse effects. Our results suggest that disks around young intermediate-mass stars may be challenging environments for planetesimal formation via SI. This may explain the dearth of planets around stars with $M_\ast > 3.0 \,$$M_\odot$.
+#### The Starburst Acceleration of High-Velocity Clouds in the Galactic Center
+ - **Authors:** Mengfei Zhang, Miao Li, Peixin Zhu
+ - **Subjects:** Subjects:
+Astrophysics of Galaxies (astro-ph.GA)
+ - **Arxiv link:** https://arxiv.org/abs/2502.17141
+
+ - **Pdf link:** https://arxiv.org/pdf/2502.17141
+
+ - **Abstract**
+ High-velocity clouds (HVCs) in the Galactic center have garnered significant attention due to their mysterious formation, potentially linked to starburst events or supermassive black hole activity in the region. However, it remains challenging to explain the observed column density and velocity distribution of HVCs. The discovery of high-velocity molecular clouds (HVMCs), which are denser and more massive, adds to this complexity. To address this, we conduct three-dimensional numerical simulations to explore the origin and magneto-hydrodynamic evolution of HVCs in the context of a starburst in the Galactic center. By incorporating magnetic fields and an initial tangential velocity for the clouds, our simulation results align with the observed properties of HVCs, supporting the notion that these clouds can originate from a starburst process. In addition, ~5% of the total mass of initial clouds can survive after 3.5 Myr, as a result, the following star formation will be more efficient than a feedback process that destroys all cool clouds.
+#### A JWST Panchromatic Thermal Emission Spectrum of the Warm Neptune Archetype GJ 436b
+ - **Authors:** Sagnick Mukherjee, Everett Schlawin, Taylor J. Bell, Jonathan J. Fortney, Thomas G. Beatty, Thomas P. Greene, Kazumasa Ohno, Matthew M. Murphy, Vivien Parmentier, Michael R Line, Luis Welbanks, Lindsey S. Wiser, Marcia J. Rieke
+ - **Subjects:** Subjects:
+Earth and Planetary Astrophysics (astro-ph.EP); Solar and Stellar Astrophysics (astro-ph.SR)
+ - **Arxiv link:** https://arxiv.org/abs/2502.17418
+
+ - **Pdf link:** https://arxiv.org/pdf/2502.17418
+
+ - **Abstract**
+ GJ 436b is the archetype warm Neptune exoplanet. The planet's thermal emission spectrum was previously observed via intensive secondary eclipse campaigns with Spitzer. The atmosphere has long been interpreted to be extremely metal-rich, out of chemical equilibrium, and potentially tidally heated. We present the first panchromatic emission spectrum of GJ 436b observed with JWST's NIRCAM (F322W2 and F444W) and MIRI (LRS) instruments between 2.4 and 11.9 $\mu$m. Surprisingly, the JWST spectrum appears significantly fainter around 3.6 $\mu$m than that implied by Spitzer photometry. The molecular absorption features in the spectrum are relatively weak, and we only find tentative evidence of CO$_2$ absorption at 2$\sigma$ significance. Under the assumption of a day-side blackbody, we find $T_{\rm day}$=662.8$\pm$5.0 K, which is similar to the zero Bond albedo equilibrium temperature. We use it to obtain a 3$\sigma$ upper limit on the Bond albedo of $A_B{\le}$0.66. To understand the spectrum we employ 1D radiative-convective models but find that atmospheric constraints depend strongly on model assumptions. If thermochemical equilibrium is assumed, we find a cloudy metal-enriched atmosphere (metallicity $\ge$ 300$\times$solar). We employ 1D photochemical modeling to show that the observed spectrum is also consistent with a cloud-free, relatively lower-metallicity atmosphere (metallicity $\ge$ 80$\times$solar) with a cold internal temperature ($T_{\rm int}$$\sim$60 K). These are much lower metallicities and internal temperatures than inferences from Spitzer photometry. The low $T_{\rm day}$ and non-detection of transmission features at high spectral resolution does suggest a role for cloud opacity, but this is not definitive.
+#### The Legacy of Henrietta Leavitt: A Re-analysis of the First Cepheid Period-Luminosity Relation
+ - **Authors:** Louise Breuval, Caroline D. Huang, Adam G. Riess
+ - **Subjects:** Subjects:
+Solar and Stellar Astrophysics (astro-ph.SR); Cosmology and Nongalactic Astrophysics (astro-ph.CO); Astrophysics of Galaxies (astro-ph.GA); Instrumentation and Methods for Astrophysics (astro-ph.IM); History and Philosophy of Physics (physics.hist-ph)
+ - **Arxiv link:** https://arxiv.org/abs/2502.17438
+
+ - **Pdf link:** https://arxiv.org/pdf/2502.17438
+
+ - **Abstract**
+ Henrietta Swan Leavitt's discovery of the relationship between the period and luminosity (hereafter the Leavitt Law) of 25 variable stars in the Small Magellanic Cloud, published in 1912, revolutionized cosmology. These variables, eventually identified as Cepheids, became the first known "standard candles" for measuring extragalactic distances and remain the gold standard for this task today. Leavitt measured light curves, periods, and minimum and maximum magnitudes from painstaking visual inspection of photographic plates. Her work paved the way for the first precise series of distance measurements that helped set the scale of the Universe, and later the discovery of its expansion by Edwin Hubble in 1929. Here, we re-analyze Leavitt's first Period-Luminosity relation using observations of the same set of stars but with modern data and methods of Cepheid analysis. Using only data from Leavitt's notebooks, we assess the quality of her light curves, measured periods, and the slope and scatter of her Period-Luminosity relations. We show that modern data and methods, for the same objects, reduce the scatter of the Period-Luminosity relation by a factor of two. We also find a bias brightward at the short period end, due to the non-linearity of the plates and environmental crowding. Overall, Leavitt's results are in excellent agreement with contemporary measurements, reinforcing the value of Cepheids in cosmology today, a testament to the enduring quality of her work.
 
 
 by olozhika (Xing Yuchen). 
